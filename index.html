@@ -2,140 +2,87 @@
 <html lang="en">
 <head>
 <meta charset="utf-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
 <meta name="theme-color" content="#0b1218"/>
 <title>Morntide Desk</title>
-<meta property="og:title" content="Morntide Desk"/>
 <meta property="og:image" content="og.svg"/>
 <style>
-  :root { --bg:#0b1218; --panel:#121a22; --line:#24313b; --ivory:#e8dfd0; --muted:#8aa0ad; --gold:#e6c27a; --gold2:#c9d7de; }
-  * { box-sizing:border-box; }
-  html,body { margin:0; background:var(--bg); color:var(--ivory); font-family: system-ui, -apple-system, sans-serif; }
-  .wrap { max-width:720px; margin:0 auto; padding:16px 16px 48px; }
-  .banner { width:100%; height:auto; display:block; border-radius:10px; border:1px solid var(--line); }
-  h1 { font-family: Palatino, serif; font-weight:600; font-size:28px; margin:18px 0 4px; }
-  .sub { color:var(--muted); font-size:13px; margin:0 0 18px; }
-  .kpis { display:grid; grid-template-columns:1fr 1fr; gap:10px; margin:14px 0; }
-  .kpi { background:var(--panel); border:1px solid var(--line); border-radius:12px; padding:14px; }
-  .kpi .lbl { color:var(--muted); font-size:11px; letter-spacing:.12em; text-transform:uppercase; }
-  .kpi .val { font-family: Palatino, serif; font-size:28px; color:var(--gold); margin-top:6px; }
-  .kpi .hint { color:var(--muted); font-size:11px; margin-top:4px; }
-  .card { background:var(--panel); border:1px solid var(--line); border-radius:12px; padding:16px; margin:12px 0; }
-  .card h2 { font-size:13px; letter-spacing:.12em; text-transform:uppercase; color:var(--gold2); margin:0 0 12px; }
-  .bar-wrap { height:10px; background:#0e161c; border-radius:99px; overflow:hidden; }
-  .bar { height:100%; background:linear-gradient(90deg,#5d7a88,var(--gold)); width:0; }
-  .row { display:flex; justify-content:space-between; font-size:13px; margin:8px 0 4px; color:var(--muted); }
-  .row b { color:var(--ivory); }
-  form { display:grid; gap:8px; }
-  label { font-size:11px; color:var(--muted); letter-spacing:.08em; text-transform:uppercase; }
-  input { width:100%; background:#0b1218; border:1px solid var(--line); color:var(--ivory); border-radius:8px; padding:10px 12px; font-size:16px; }
-  button { background:var(--gold); color:#1a1408; border:0; border-radius:8px; padding:12px; font-weight:700; font-size:15px; }
-  table { width:100%; border-collapse:collapse; font-size:13px; }
-  th,td { text-align:left; padding:8px 4px; border-bottom:1px solid var(--line); }
-  th { color:var(--muted); font-size:11px; letter-spacing:.08em; text-transform:uppercase; }
-  .insight { font-size:14px; line-height:1.45; margin:0 0 8px; }
-  .insight span { color:var(--gold); }
-  .foot { color:var(--muted); font-size:11px; margin-top:20px; text-align:center; }
-</style>
-</head>
-<body>
+:root{--bg:#0b1218;--panel:#121a22;--line:#24313b;--ivory:#e8dfd0;--muted:#8aa0ad;--gold:#e6c27a;--gold2:#c9d7de}
+*{box-sizing:border-box}html,body{margin:0;background:var(--bg);color:var(--ivory);font-family:system-ui,-apple-system,sans-serif}
+.wrap{max-width:760px;margin:0 auto;padding:16px 16px 48px}
+.banner{width:100%;border-radius:10px;border:1px solid var(--line)}
+h1{font-family:Palatino,serif;font-size:28px;margin:18px 0 4px}
+.sub{color:var(--muted);font-size:13px}
+.kpis{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:14px 0}
+.kpi{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px}
+.lbl{color:var(--muted);font-size:11px;letter-spacing:.12em;text-transform:uppercase}
+.val{font-family:Palatino,serif;font-size:26px;color:var(--gold);margin-top:6px}
+.hint{color:var(--muted);font-size:11px;margin-top:4px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px;margin:12px 0}
+.card h2{font-size:13px;letter-spacing:.12em;text-transform:uppercase;color:var(--gold2);margin:0 0 12px}
+.bar-wrap{height:10px;background:#0e161c;border-radius:99px;overflow:hidden}
+.bar{height:100%;background:linear-gradient(90deg,#5d7a88,var(--gold));width:0}
+.row{display:flex;justify-content:space-between;font-size:13px;margin:8px 0 4px;color:var(--muted)}
+.row b{color:var(--ivory)}
+.pill{font-size:10px;letter-spacing:.08em;text-transform:uppercase;border:1px solid var(--line);border-radius:99px;padding:2px 8px;color:var(--muted)}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th,td{text-align:left;padding:8px 4px;border-bottom:1px solid var(--line)}
+th{color:var(--muted);font-size:11px;letter-spacing:.08em;text-transform:uppercase}
+.insight,.rec{font-size:14px;line-height:1.45;margin:0 0 10px}
+.insight span{color:var(--gold)}
+.foot{color:var(--muted);font-size:11px;margin-top:16px}
+</style></head><body>
 <div class="wrap">
-  <img class="banner" alt="Morntide Desk" src="og.svg"/>
-  <h1>Morntide Desk</h1>
-  <p class="sub">Focus music channel desk · YPP + daily Studio log</p>
-  <div class="kpis">
-    <div class="kpi"><div class="lbl">Subscribers</div><div class="val" id="kpi-subs">—</div><div class="hint">YPP bar 1,000</div></div>
-    <div class="kpi"><div class="lbl">Earn hours</div><div class="val" id="kpi-earn">—</div><div class="hint">YPP bar 4,000</div></div>
-    <div class="kpi"><div class="lbl">Analytics 7d</div><div class="val" id="kpi-an7">—</div><div class="hint">Studio Analytics, not Earn</div></div>
-    <div class="kpi"><div class="lbl">Hours to YPP</div><div class="val" id="kpi-left">—</div><div class="hint" id="kpi-pace">pace after next log</div></div>
-  </div>
-  <div class="card"><h2>YPP progress</h2>
-    <div class="row"><span>Public watch hours (Earn)</span><b id="ypp-hours-lbl">—</b></div>
-    <div class="bar-wrap"><div class="bar" id="bar-hours"></div></div>
-    <div class="row" style="margin-top:14px"><span>Subscribers</span><b id="ypp-subs-lbl">—</b></div>
-    <div class="bar-wrap"><div class="bar" id="bar-subs"></div></div>
-  </div>
-  <div class="card"><h2>Read</h2>
-    <p class="insight" id="insight-1"></p>
-    <p class="insight" id="insight-2"></p>
-    <p class="insight" id="insight-3"></p>
-  </div>
-  <div class="card"><h2>Log today’s Studio pull</h2>
-    <form id="log">
-      <div><label>Day</label><input id="f-day" type="date" required/></div>
-      <div><label>Subscribers</label><input id="f-subs" type="number" min="0" step="1" required/></div>
-      <div><label>Earn public hours</label><input id="f-earn" type="number" min="0" step="0.1" required/></div>
-      <div><label>Analytics watch hours (last 7 days)</label><input id="f-an7" type="number" min="0" step="0.1" required/></div>
-      <button type="submit">Save snapshot</button>
-    </form>
-  </div>
-  <div class="card"><h2>Log</h2>
-    <table><thead><tr><th>Day</th><th>Subs</th><th>Earn</th><th>7d</th></tr></thead><tbody id="rows"></tbody></table>
-  </div>
-  <p class="foot">Earn hours count toward YPP. Analytics 7d does not.</p>
+<img class="banner" src="og.svg" alt="Morntide Desk"/>
+<h1>Morntide Desk</h1>
+<p class="sub" id="sub">Focus music desk</p>
+<div class="kpis">
+<div class="kpi"><div class="lbl">Subscribers</div><div class="val" id="kpi-subs">—</div><div class="hint">YPP 1,000</div></div>
+<div class="kpi"><div class="lbl">Earn hours</div><div class="val" id="kpi-earn">—</div><div class="hint">YPP 4,000</div></div>
+<div class="kpi"><div class="lbl">Analytics 7d</div><div class="val" id="kpi-an7">—</div><div class="hint" id="hint-7d">hours</div></div>
+<div class="kpi"><div class="lbl">Analytics 28d</div><div class="val" id="kpi-an28">—</div><div class="hint" id="hint-28d">hours</div></div>
+</div>
+<div class="card"><h2>YPP progress</h2>
+<div class="row"><span>Qualified hours</span><b id="ypp-hours-lbl">—</b></div><div class="bar-wrap"><div class="bar" id="bar-hours"></div></div>
+<div class="row" style="margin-top:14px"><span>Subscribers</span><b id="ypp-subs-lbl">—</b></div><div class="bar-wrap"><div class="bar" id="bar-subs"></div></div>
+</div>
+<div class="card"><h2>Do this next</h2><div id="recs"></div></div>
+<div class="card"><h2>Positioning</h2><p class="insight" id="i1"></p><p class="insight" id="i2"></p><p class="insight" id="i3"></p></div>
+<div class="card"><h2>Videos that work</h2>
+<table><thead><tr><th>Title</th><th>Kind</th><th>Views</th></tr></thead><tbody id="videos"></tbody></table>
+<p class="foot" id="video-src"></p></div>
+<div class="card"><h2>Log</h2>
+<table><thead><tr><th>Day</th><th>Subs</th><th>Earn</th><th>7d</th></tr></thead><tbody id="rows"></tbody></table>
+</div>
+<p class="foot">Earn hours count toward YPP. Never treat the Memberships welcome card as 0.</p>
 </div>
 <script>
-const KEY = "morntide-desk-v1";
-const YPP_HOURS = 4000;
-const YPP_SUBS = 1000;
-const SEED = [];
-let remoteRows = null;
-function merge(a, b) {
-  const map = {};
-  (a || []).concat(b || []).forEach(r => { if (r && r.day) map[r.day] = r; });
-  return Object.values(map);
+const YH=4000,YS=1000,GATE='subs';
+const fmt=n=>n==null||n===''?'—':Number(n).toLocaleString(undefined,{maximumFractionDigits:1});
+const fmtK=n=>{if(n==null)return '—';n=Number(n);return n>=1000?(n/1000).toFixed(n>=10000?0:1)+'K':fmt(n)};
+async function boot(){
+ const L=await fetch('data/latest.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null)||{};
+ const rows=await fetch('data/snapshots.json',{cache:'no-store'}).then(r=>r.ok?r.json():[]).catch(()=>[]);
+ const k=L.kpis||L;
+ document.getElementById('sub').textContent=(L.channel||'@morntidemusic')+' · updated '+(L.day||'—');
+ document.getElementById('kpi-subs').textContent=fmt(k.subs);
+ document.getElementById('kpi-earn').textContent=fmt(k.earn);
+ document.getElementById('kpi-an7').textContent=fmt(k.an7);
+ document.getElementById('kpi-an28').textContent=fmt(k.an28);
+ document.getElementById('hint-7d').textContent=k.views7!=null?fmtK(k.views7)+' views':'Studio Analytics';
+ document.getElementById('hint-28d').textContent=k.views28!=null?fmtK(k.views28)+' views':'Studio Analytics';
+ document.getElementById('bar-hours').style.width=Math.min(100,(Number(k.earn||0)/YH)*100)+'%';
+ document.getElementById('bar-subs').style.width=Math.min(100,(Number(k.subs||0)/YS)*100)+'%';
+ document.getElementById('ypp-hours-lbl').textContent=fmt(k.earn)+' / 4,000';
+ document.getElementById('ypp-subs-lbl').textContent=fmt(k.subs)+' / 1,000';
+ const leftS=Math.max(0,YS-Number(k.subs||0));
+ document.getElementById('i1').innerHTML='<span>'+fmt(leftS)+'</span> subscribers left to 1,000.';
+ document.getElementById('i2').innerHTML='Qualified hours <span>'+fmt(k.earn)+'</span> / 4,000 — ahead of the sub bar.';
+ document.getElementById('i3').innerHTML='End-screen Subscribe + FOCUS on Deep Work / First Light.';
+ document.getElementById('recs').innerHTML=(L.recs||[]).map((t,i)=>'<p class="rec"><b>'+(i+1)+'.</b> '+t+'</p>').join('')||'<p class="insight">Waiting on pull.</p>';
+ document.getElementById('videos').innerHTML=(L.content||[]).map(v=>'<tr><td>'+(v.title||'')+'</td><td><span class="pill">'+(v.kind||'')+'</span></td><td>'+fmtK(v.views)+'</td></tr>').join('')||'<tr><td colspan=3>—</td></tr>';
+ document.getElementById('video-src').textContent=L.content_source||'';
+ document.getElementById('rows').innerHTML=(rows||[]).slice().sort((a,b)=>String(b.day).localeCompare(String(a.day))).map(r=>{const kk=r.kpis||r;return '<tr><td>'+r.day+'</td><td>'+fmt(kk.subs)+'</td><td>'+fmt(kk.earn)+'</td><td>'+fmt(kk.an7)+'</td></tr>';}).join('');
 }
-function load() {
-  try {
-    const raw = localStorage.getItem(KEY);
-    const local = raw ? JSON.parse(raw) : [];
-    const rows = merge(SEED, merge(remoteRows, local));
-    return rows.length ? rows : [{ day:"2026-09-23", subs:0, earn:0, an7:0 }];
-  } catch { return [{ day:"2026-09-23", subs:0, earn:0, an7:0 }]; }
-}
-function save(rows) { localStorage.setItem(KEY, JSON.stringify(rows)); }
-function fmt(n) { return Number(n).toLocaleString(undefined, { maximumFractionDigits: 1 }); }
-function latest(rows) { return rows.slice().sort((a,b) => a.day.localeCompare(b.day)).at(-1); }
-function render() {
-  const rows = load().slice().sort((a,b) => b.day.localeCompare(a.day));
-  const L = latest(load());
-  document.getElementById("kpi-subs").textContent = fmt(L.subs);
-  document.getElementById("kpi-earn").textContent = fmt(L.earn);
-  document.getElementById("kpi-an7").textContent = fmt(L.an7);
-  const left = Math.max(0, YPP_HOURS - L.earn);
-  document.getElementById("kpi-left").textContent = fmt(left);
-  document.getElementById("bar-hours").style.width = Math.min(100, (L.earn / YPP_HOURS) * 100) + "%";
-  document.getElementById("bar-subs").style.width = Math.min(100, (L.subs / YPP_SUBS) * 100) + "%";
-  document.getElementById("ypp-hours-lbl").textContent = fmt(L.earn) + " / 4,000";
-  document.getElementById("ypp-subs-lbl").textContent = fmt(L.subs) + " / 1,000";
-  const sorted = load().slice().sort((a,b) => a.day.localeCompare(b.day));
-  let pace = "Need two logs to estimate pace.";
-  if (sorted.length >= 2) {
-    const a = sorted.at(-2), b = sorted.at(-1);
-    const days = Math.max(1, (Date.parse(b.day) - Date.parse(a.day)) / 86400000);
-    const rate = (b.earn - a.earn) / days;
-    pace = rate > 0 ? (rate.toFixed(1) + " Earn hrs/day → ~" + Math.ceil(left / rate) + " days to 4,000") : "Earn hours did not rise between last two logs.";
-  }
-  document.getElementById("kpi-pace").textContent = pace;
-  document.getElementById("insight-1").innerHTML = L.subs >= YPP_SUBS ? "Subs are <span>past</span> the 1,000 YPP bar. Hours are the gate." : "<span>" + fmt(Math.max(0, YPP_SUBS - L.subs)) + "</span> subscribers left to the 1,000 bar.";
-  document.getElementById("insight-2").innerHTML = "Use the <span>Earn tab</span> number for YPP. Analytics 7d (" + fmt(L.an7) + ") is a different clock.";
-  document.getElementById("insight-3").innerHTML = left === 0 && L.earn > 0 ? "Earn hours are at the bar. Recheck Studio." : "<span>" + fmt(left) + "</span> public Earn hours left.";
-  document.getElementById("rows").innerHTML = rows.filter(r => r.subs || r.earn || r.an7).map(r => "<tr><td>"+r.day+"</td><td>"+fmt(r.subs)+"</td><td>"+fmt(r.earn)+"</td><td>"+fmt(r.an7)+"</td></tr>").join("") || "<tr><td colspan=4>Waiting on first Studio pull</td></tr>";
-  const t = new Date();
-  document.getElementById("f-day").value = t.getFullYear()+"-"+String(t.getMonth()+1).padStart(2,"0")+"-"+String(t.getDate()).padStart(2,"0");
-  document.getElementById("f-subs").value = L.subs;
-  document.getElementById("f-earn").value = L.earn;
-  document.getElementById("f-an7").value = L.an7;
-}
-document.getElementById("log").addEventListener("submit", (e) => {
-  e.preventDefault();
-  const next = { day: document.getElementById("f-day").value, subs: Number(document.getElementById("f-subs").value), earn: Number(document.getElementById("f-earn").value), an7: Number(document.getElementById("f-an7").value) };
-  const rows = load().filter(r => r.day !== next.day);
-  rows.push(next);
-  save(rows);
-  render();
-});
-fetch("data/snapshots.json", { cache: "no-store" }).then(r => r.ok ? r.json() : []).then(rows => { remoteRows = Array.isArray(rows) ? rows : []; render(); }).catch(() => render());
-</script>
-</body>
-</html>
+boot();
+</script></body></html>
