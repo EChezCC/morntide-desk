@@ -1,28 +1,37 @@
 {
   "day": "2026-09-23",
   "channel": "@morntidemusic",
+  "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
   "kpis": {
     "subs": 224,
     "earn": 801,
     "an7": 33.9,
-    "an28": 873.7
+    "views7": 3010,
+    "an28": 873.7,
+    "views28": 7879,
+    "channel_views": 7635,
+    "video_count": 13
   },
-  "content_source": "Public channel listing 2026-09-23 + Studio KPIs. Earn 801 is Eric-verified qualified hours. CTR / per-video hours pending Studio Content tab.",
+  "content_source": "YouTube Data API 2026-09-23 (subs, lifetime views). Earn 801 last-known / Eric-verified qualified hours — never 0. 90d Shorts Earn UNVERIFIED. CTR not in Data API.",
   "content": [
-    {"title": "Deep Work — 1 Hour of Deep Work Instrumentals", "kind": "long", "views": 2400},
-    {"title": "First Light — Nearly 2 Hours of Deep Work Instrumentals", "kind": "long", "views": 1100},
-    {"title": "Wake Calm — Over 2 Hours of Morning Energy Instrumentals", "kind": "long", "views": 363},
-    {"title": "Night Calm — 53 Minutes of Night Listening", "kind": "long", "views": 142},
-    {"title": "Morntide Focus Radio (Live)", "kind": "live", "views": 81},
-    {"title": "Still Tide — Soft Focus Music for Deep Work", "kind": "long", "views": 70},
-    {"title": "Night Calm — Soft Night Ambient (2 Hours)", "kind": "long", "views": 64},
-    {"title": "First Light — Soft Morning Focus (1 Hour)", "kind": "long", "views": 55}
+    {"title": "Deep Work (1h)", "kind": "long", "views": 2442, "id": "MPDy0P-CVc0"},
+    {"title": "First Light (~2h)", "kind": "long", "views": 1082, "id": "L11Hc6Jc1SA"},
+    {"title": "Wake Calm", "kind": "long", "views": 363, "id": "uPqitC0mm4g"},
+    {"title": "Night Calm (53m)", "kind": "long", "views": 142, "id": "64tyeo8LkDM"},
+    {"title": "Focus Radio (Live) VOD", "kind": "live", "views": 81, "id": "NLRaVikuQls"},
+    {"title": "Still Tide (1h)", "kind": "long", "views": 74, "id": "ZiRfM8u5-oA"},
+    {"title": "Night Calm (2h)", "kind": "long", "views": 64, "id": "GDv_AyRAm78"},
+    {"title": "First Light (1h)", "kind": "long", "views": 55, "id": "hSRa7ejUPRM"},
+    {"title": "Still Tide", "kind": "short", "views": 1498, "id": "BCJrx7gh-PM"},
+    {"title": "Deep Channel", "kind": "short", "views": 1344, "id": "9nxV-E5x4kM"},
+    {"title": "Morning focus music", "kind": "short", "views": 562, "id": "KAgrw-DIIUM"},
+    {"title": "Night ambient music", "kind": "short", "views": 515, "id": "uX25We2YQgA"}
   ],
   "recs": [
-    "YPP gate is subscribers (224 / 1,000). Hours at 801 are ahead of the sub bar — every Deep Work / First Light video should end-screen Subscribe + the FOCUS playlist.",
-    "Deep Work 1 Hour (2.4K) and First Light ~2 Hours (1.1K) are the packaging that works. Next session should copy that title shape, runtime, and playlist home — not a new 1-hour with a quieter name.",
-    "28d hours (873.7) dwarf 7d hours (33.9). Something held earlier that is not holding this week. Keep Focus Radio live on the same Deep Work loop and pin that video on the channel.",
-    "Do not log Earn as 0 from the Memberships welcome card. Qualified hours stay 801 until the YPP meter moves.",
-    "Night Calm and Still Tide are not the growth lane. Keep them in SLEEP / extras; spend new runtime on FOCUS."
+    "YPP gate is subscribers (224 / 1,000). Qualified hours stay 801 — ahead of the sub bar. End-screen Subscribe + the FOCUS playlist on Deep Work and First Light.",
+    "Deep Work 1h (2,442) and First Light ~2h (1,082) are the long-form packaging that works. Copy that title shape and runtime; do not lead with Night Calm / Still Tide longs.",
+    "Public Shorts that actually get views: Still Tide (1,498) and Deep Channel (1,344). Use them as a funnel into FOCUS, not as the hours plan. 90d Earn Shorts views are UNVERIFIED.",
+    "28d hours (873.7) dwarf 7d hours (33.9 / 3,010 views). This week is soft. Keep Focus Radio on the Deep Work loop and pin Deep Work on the channel.",
+    "Do not log Earn as 0 from the Memberships welcome card. Qualified hours stay 801 until the YPP meter on Earn moves."
   ]
 }

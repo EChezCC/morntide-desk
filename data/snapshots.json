@@ -5,9 +5,13 @@
     "earn": 801,
     "an7": 33.9,
     "an28": 873.7,
+    "views7": 3010,
+    "views28": 7879,
+    "channel_views": 7635,
+    "video_count": 13,
     "channel": "@morntidemusic",
     "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
-    "source": "Eric correction + pending Earn-tab confirm",
-    "notes": "Qualified public watch hours 801. Do not treat monetization welcome card as 0."
+    "source": "YouTube Data API + last-known Studio Earn/Analytics",
+    "notes": "Qualified public watch hours 801. Do not treat Memberships welcome card as 0."
   }
 ]
