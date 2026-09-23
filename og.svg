@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0b1218"/>
+  <circle cx="180" cy="315" r="90" fill="#1a2730" stroke="#7ea8b8" stroke-width="6"/>
+  <circle cx="180" cy="315" r="28" fill="#e6c27a"/>
+  <text x="340" y="300" font-family="Palatino, Times, serif" font-size="72" fill="#e8dfd0">Morntide Desk</text>
+  <text x="340" y="350" font-family="system-ui, sans-serif" font-size="22" fill="#8aa0ad">focus music channel desk</text>
+</svg>
