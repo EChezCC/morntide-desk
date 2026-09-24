@@ -1,37 +1,38 @@
 {
-  "day": "2026-09-23",
+  "day": "2026-09-24",
   "channel": "@morntidemusic",
   "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
   "kpis": {
-    "subs": 224,
+    "subs": 231,
     "earn": 801,
     "an7": 33.9,
     "views7": 3010,
     "an28": 873.7,
     "views28": 7879,
-    "channel_views": 7635,
-    "video_count": 13
+    "video_count": 14
   },
-  "content_source": "YouTube Data API 2026-09-23 (subs, lifetime views). Earn 801 last-known / Eric-verified qualified hours — never 0. 90d Shorts Earn UNVERIFIED. CTR not in Data API.",
+  "content_source": "Public channel 2026-09-24 @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA (231 subs, 14 videos). YCM: no 8:50 Studio Earn/Analytics/Content pull. Earn 801 last-known / Eric 2026-09-23 — never 0. an7/views7/an28/views28 last-known Studio 2026-09-23. shorts90 not on this pull. Content tab missing — hours/CTR not invented. Views = public counts.",
   "content": [
     {"title": "Deep Work (1h)", "kind": "long", "views": 2442, "id": "MPDy0P-CVc0"},
     {"title": "First Light (~2h)", "kind": "long", "views": 1082, "id": "L11Hc6Jc1SA"},
-    {"title": "Wake Calm", "kind": "long", "views": 363, "id": "uPqitC0mm4g"},
-    {"title": "Night Calm (53m)", "kind": "long", "views": 142, "id": "64tyeo8LkDM"},
-    {"title": "Focus Radio (Live) VOD", "kind": "live", "views": 81, "id": "NLRaVikuQls"},
-    {"title": "Still Tide (1h)", "kind": "long", "views": 74, "id": "ZiRfM8u5-oA"},
-    {"title": "Night Calm (2h)", "kind": "long", "views": 64, "id": "GDv_AyRAm78"},
+    {"title": "Wake Calm", "kind": "long", "views": 365, "id": "uPqitC0mm4g"},
+    {"title": "Night Calm (53m)", "kind": "long", "views": 147, "id": "64tyeo8LkDM"},
+    {"title": "Still Tide (1h)", "kind": "long", "views": 113, "id": "ZiRfM8u5-oA"},
+    {"title": "Focus Radio VOD 09-22", "kind": "live", "views": 81, "id": "NLRaVikuQls"},
+    {"title": "Night Calm (~2h)", "kind": "long", "views": 67, "id": "GDv_AyRAm78"},
     {"title": "First Light (1h)", "kind": "long", "views": 55, "id": "hSRa7ejUPRM"},
-    {"title": "Still Tide", "kind": "short", "views": 1498, "id": "BCJrx7gh-PM"},
-    {"title": "Deep Channel", "kind": "short", "views": 1344, "id": "9nxV-E5x4kM"},
+    {"title": "Focus Radio VOD 09-23", "kind": "live", "views": 19, "id": "pCbAsXdPqpg"},
+    {"title": "Deep Channel (1h)", "kind": "long", "views": 7, "id": "M_ZMGE9oTjE"},
+    {"title": "Still Tide", "kind": "short", "views": 1700, "id": "BCJrx7gh-PM"},
+    {"title": "Deep Channel", "kind": "short", "views": 1300, "id": "9nxV-E5x4kM"},
     {"title": "Morning focus music", "kind": "short", "views": 562, "id": "KAgrw-DIIUM"},
     {"title": "Night ambient music", "kind": "short", "views": 515, "id": "uX25We2YQgA"}
   ],
   "recs": [
-    "YPP gate is subscribers (224 / 1,000). Qualified hours stay 801 — ahead of the sub bar. End-screen Subscribe + the FOCUS playlist on Deep Work and First Light.",
-    "Deep Work 1h (2,442) and First Light ~2h (1,082) are the long-form packaging that works. Copy that title shape and runtime; do not lead with Night Calm / Still Tide longs.",
-    "Public Shorts that actually get views: Still Tide (1,498) and Deep Channel (1,344). Use them as a funnel into FOCUS, not as the hours plan. 90d Earn Shorts views are UNVERIFIED.",
-    "28d hours (873.7) dwarf 7d hours (33.9 / 3,010 views). This week is soft. Keep Focus Radio on the Deep Work loop and pin Deep Work on the channel.",
-    "Do not log Earn as 0 from the Memberships welcome card. Qualified hours stay 801 until the YPP meter on Earn moves."
+    "YPP gate is subscribers (231 / 1,000). Qualified hours stay 801. End-screen Subscribe + FOCUS on Deep Work and First Light.",
+    "Deep Work 1h (2,442) and First Light ~2h (1,082) still carry the catalog. Do not lead with Deep Channel 1h (7 views) or Night Calm / Still Tide longs.",
+    "Public Shorts that work: Still Tide (1.7K) and Deep Channel (1.3K). Funnel them into FOCUS. 90d Earn Shorts UNVERIFIED.",
+    "7d hours last-known 33.9 / 3,010 views vs 28d 873.7. Keep daily Focus Radio on the Deep Work loop; pin Deep Work.",
+    "Do not log Earn as 0 from the Memberships welcome card. Keep 801 until the YPP qualified-hours meter moves."
   ]
 }
