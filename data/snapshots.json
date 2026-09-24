@@ -7,11 +7,12 @@
     "an28": 873.7,
     "views7": 3010,
     "views28": 7879,
+    "channel_views": 8253,
     "video_count": 14,
     "channel": "@morntidemusic",
     "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
-    "source": "Public channel + last-known Studio Earn/Analytics 2026-09-23",
-    "notes": "No 8:50 Studio Content pull. Earn 801. Do not treat Memberships welcome card as 0."
+    "source": "YouTube Data API Soft Soft Soft Soft-PASS + last-known Studio Earn/Analytics (Desk Studio pull 2026-09-24; Studio YPP not re-pulled)",
+    "notes": "Qualified public watch hours 801 LAST-KNOWN. Do not treat Memberships welcome card as 0. shorts90 UNVERIFIED omitted."
   },
   {
     "day": "2026-09-23",
