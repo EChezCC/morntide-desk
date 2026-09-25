@@ -1,5 +1,20 @@
 [
   {
+    "day": "2026-09-25",
+    "subs": 244,
+    "earn": 801,
+    "an7": 33.9,
+    "an28": 873.7,
+    "views7": 3010,
+    "views28": 7879,
+    "channel_views": 8649,
+    "video_count": 13,
+    "channel": "@morntidemusic",
+    "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
+    "source": "YouTube Data API PASS + last-known Studio Earn/Analytics (Desk Studio pull 2026-09-25; no Morntide Studio proof today)",
+    "notes": "Qualified public watch hours 801 LAST-KNOWN. Do not treat Memberships welcome card as 0. shorts90 UNVERIFIED omitted."
+  },
+  {
     "day": "2026-09-24",
     "subs": 231,
     "earn": 801,

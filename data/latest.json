@@ -1,23 +1,23 @@
 {
-  "day": "2026-09-24",
+  "day": "2026-09-25",
   "channel": "@morntidemusic",
   "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
   "kpis": {
-    "subs": 231,
+    "subs": 244,
     "earn": 801,
     "an7": 33.9,
     "views7": 3010,
     "an28": 873.7,
     "views28": 7879,
-    "channel_views": 8253,
-    "video_count": 14
+    "channel_views": 8649,
+    "video_count": 13
   },
-  "content_source": "YouTube Data API 2026-09-24 Soft Soft Soft Soft-PASS @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA (HARD match; 231 subs, 14 videos, 8253 channel views; uploads scanned 18). Earn 801 LAST-KNOWN Soft Soft Soft Soft-PASS (Eric 2026-09-23; Desk Studio pull did not re-pull Studio YPP meter \u2014 never 0 from Memberships welcome). an7 33.9h / views7 3010 LAST-KNOWN Studio 2026-09-23; an28 873.7h LAST-KNOWN Studio 2026-09-23; views28 7879 last-known Soft Soft Soft Soft-PASS (28d views null on this morning's pull). shorts90 UNVERIFIED (omitted). Content board = Data API viewCount. CTR UNVERIFIED.",
+  "content_source": "YouTube Data API 2026-09-25 PASS @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA (HARD match; 244 subs, 13 videos, 8649 channel views; uploads scanned 21). Earn 801 LAST-KNOWN PASS (Eric HARD; Desk Studio pull had no Morntide Studio proof today \u2014 never 0 from Memberships welcome). an7 33.9h / views7 3010 LAST-KNOWN Studio 2026-09-23; an28 873.7h / views28 7879 LAST-KNOWN. shorts90 UNVERIFIED (omitted). Content board = Data API viewCount. CTR UNVERIFIED.",
   "content": [
     {
       "title": "Deep Work (1h)",
       "kind": "long",
-      "views": 2442,
+      "views": 2444,
       "id": "MPDy0P-CVc0"
     },
     {
@@ -29,49 +29,49 @@
     {
       "title": "Wake Calm",
       "kind": "long",
-      "views": 365,
+      "views": 366,
       "id": "uPqitC0mm4g"
     },
     {
       "title": "Night Calm (53m)",
       "kind": "long",
-      "views": 147,
+      "views": 148,
       "id": "64tyeo8LkDM"
     },
     {
       "title": "Still Tide (1h)",
       "kind": "long",
-      "views": 113,
+      "views": 116,
       "id": "ZiRfM8u5-oA"
     },
     {
       "title": "Focus Radio VOD 09-22",
       "kind": "live",
-      "views": 80,
+      "views": 85,
       "id": "NLRaVikuQls"
     },
     {
       "title": "Night Calm (~2h)",
       "kind": "long",
-      "views": 67,
+      "views": 68,
       "id": "GDv_AyRAm78"
     },
     {
       "title": "First Light (1h)",
       "kind": "long",
-      "views": 55,
+      "views": 56,
       "id": "hSRa7ejUPRM"
     },
     {
       "title": "Still Tide",
       "kind": "short",
-      "views": 1726,
+      "views": 1957,
       "id": "BCJrx7gh-PM"
     },
     {
       "title": "Deep Channel",
       "kind": "short",
-      "views": 1387,
+      "views": 1372,
       "id": "9nxV-E5x4kM"
     },
     {
@@ -85,12 +85,18 @@
       "kind": "short",
       "views": 515,
       "id": "uX25We2YQgA"
+    },
+    {
+      "title": "First Light on the Water",
+      "kind": "short",
+      "views": 96,
+      "id": "6dkl1uzGgjA"
     }
   ],
   "recs": [
-    "YPP gate is subscribers (231 / 1,000). Qualified hours stay 801. End-screen Subscribe + FOCUS on Deep Work and First Light.",
-    "Deep Work 1h (2,442) and First Light ~2h (1,081) still carry the catalog. Do not lead with Deep Channel 1h (7 views) or Night Calm / Still Tide longs.",
-    "Public Shorts that work: Still Tide (1,726) and Deep Channel (1,387). Funnel them into FOCUS. 90d Earn Shorts UNVERIFIED.",
+    "YPP gate is subscribers (244 / 1,000). Qualified hours stay 801. End-screen Subscribe + FOCUS on Deep Work and First Light.",
+    "Deep Work 1h (2,444) and First Light ~2h (1,081) still carry the catalog. Wake Calm (366) is next; do not lead with Night Calm / Still Tide longs.",
+    "Public Shorts that work: Still Tide (1,957) and Deep Channel (1,372). Funnel them into FOCUS. First Light on the Water Short (96) is new. 90d Earn Shorts UNVERIFIED.",
     "7d hours last-known 33.9 / 3,010 views vs 28d 873.7. Keep daily Focus Radio on the Deep Work loop; pin Deep Work.",
     "Do not log Earn as 0 from the Memberships welcome card. Keep 801 until the YPP qualified-hours meter moves."
   ]
