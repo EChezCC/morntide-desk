@@ -1,5 +1,22 @@
 [
   {
+    "day": "2026-09-26",
+    "subs": 261,
+    "earn": 809,
+    "an7": 33.9,
+    "an28": 873.7,
+    "views7": 3010,
+    "views28": 7879,
+    "channel_views": 8649,
+    "video_count": 19,
+    "channel": "@morntidemusic",
+    "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
+    "source": "Public header PASS 2026-09-26 @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA; Studio Earn/Analytics/shorts90 not re-pulled",
+    "notes": "261 subs / 19 videos. Earn 809 LAST-KNOWN Studio 2026-09-25 (as of Sep 20). Do not treat Memberships welcome card as 0. shorts90 350 LAST-KNOWN. Analytics 7d/28d LAST-KNOWN 2026-09-23. channel_views 8649 LAST-KNOWN Data API 2026-09-25.",
+    "shorts90": 350,
+    "note": "Earn LAST-KNOWN 809; Content tab missing CTR omitted"
+  },
+  {
     "day": "2026-09-25",
     "subs": 244,
     "earn": 809,
