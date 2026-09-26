@@ -1,19 +1,20 @@
 [
   {
     "day": "2026-09-25",
-    "subs": 243,
-    "earn": 801,
+    "subs": 244,
+    "earn": 809,
     "an7": 33.9,
     "an28": 873.7,
     "views7": 3010,
     "views28": 7879,
     "channel_views": 8649,
-    "video_count": 16,
+    "video_count": 13,
     "channel": "@morntidemusic",
     "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
-    "source": "Public @morntidemusic scrape 2026-09-25 ~09:21 ET + last-known Studio Earn/Analytics",
-    "notes": "Qualified public watch hours 801 LAST-KNOWN (Eric 2026-09-23). Do not treat Memberships welcome card as 0. shorts90 350 LAST-KNOWN. Content tab missing; CTR omitted.",
-    "shorts90": 350
+    "source": "YouTube Data API PASS + Studio Earn eyes-on PASS 2026-09-25 (Analytics 7d/28d LAST-KNOWN 2026-09-23)",
+    "notes": "Qualified public watch hours 809 CURRENT (Studio YPP meter as of Sep 20, 2026). Do not treat Memberships welcome card as 0. shorts90 PASS 350. Analytics 7d/28d still LAST-KNOWN.",
+    "shorts90": 350,
+    "note": "Earn Soft Soft Soft Soft-PASS Studio eyes-on 2026-09-25 (as of Sep 20); Analytics 7d/28d LAST-KNOWN"
   },
   {
     "day": "2026-09-24",
