@@ -1,20 +1,20 @@
 [
   {
     "day": "2026-09-27",
-    "subs": 263,
-    "earn": 815,
-    "an7": 48.0,
-    "an28": 726.9,
-    "views7": 3857,
-    "views28": 8261,
-    "channel_views": 9339,
-    "video_count": 19,
+    "subs": 300,
+    "earn": 817,
+    "an7": 52.3,
+    "an28": 687.4,
+    "views7": 4414,
+    "views28": 8959,
+    "channel_views": 9895,
+    "video_count": 22,
     "channel": "@morntidemusic",
     "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
-    "source": "Public header CURRENT 263/19 @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA; Studio Earn/Analytics LAST-KNOWN 2026-09-26",
-    "notes": "Qualified public watch hours 815 LAST-KNOWN. shorts90 LAST-KNOWN 352. Analytics 7d/28d LAST-KNOWN 48.0h/3857 and 726.9h/8261. channel_views LAST-KNOWN 9339. Do not treat Memberships welcome card as 0.",
-    "shorts90": 352,
-    "note": "Earn LAST-KNOWN 815 Studio 2026-09-26; Analytics LAST-KNOWN; public subs 263"
+    "source": "YouTube Data API PASS + Studio Earn/Analytics eyes-on CURRENT 2026-09-27 @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA",
+    "notes": "Qualified public watch hours 817 CURRENT (Studio YPP meter as of Sep 22, 2026). shorts90 CURRENT 353. Analytics 7d CURRENT 52.3h/4414; 28d CURRENT 687.4h/8959. Do not treat Memberships welcome card as 0. Replaces earlier same-day LAST-KNOWN stub.",
+    "shorts90": 353,
+    "note": "Earn CURRENT 817 Studio eyes-on 2026-09-27 (as of Sep 22); Analytics 7d/28d CURRENT"
   },
   {
     "day": "2026-09-26",
