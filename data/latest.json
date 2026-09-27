@@ -3,28 +3,28 @@
   "channel": "@morntidemusic",
   "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
   "kpis": {
-    "subs": 263,
-    "earn": 815,
-    "an7": 48.0,
-    "views7": 3857,
-    "an28": 726.9,
-    "views28": 8261,
-    "channel_views": 9339,
-    "video_count": 19,
-    "shorts90": 352
+    "subs": 300,
+    "earn": 817,
+    "an7": 52.3,
+    "views7": 4414,
+    "an28": 687.4,
+    "views28": 8959,
+    "channel_views": 9895,
+    "video_count": 22,
+    "shorts90": 353
   },
-  "content_source": "Public header CURRENT 2026-09-27 @Morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA (HARD match; 263 subs, 19 videos). Studio Earn LAST-KNOWN 815 (eyes-on 2026-09-26; YPP public watch hrs meter as of Sep 21 — NEVER Memberships/0). shorts90 LAST-KNOWN 352. Analytics 7d LAST-KNOWN 48.0h / 3857 views; 28d LAST-KNOWN 726.9h / 8261 views (Studio 2026-09-26). channel_views LAST-KNOWN 9339 (2026-09-26). Content board = public Videos tab + last Data API exacts where public only shows 2.4K/1K. CTR UNVERIFIED. No 8:50 Studio pull in this workspace.",
+  "content_source": "YouTube Data API 2026-09-27 PASS @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA (HARD match; 300 subs, 22 videos, 9895 channel views; morning /workspace/desk-studio-pull/20260927/morntide-api.json). Studio Earn CURRENT 817 eyes-on 2026-09-27 (~9:08am ET; as of Sep 22, 2026; YPP public watch hrs meter — NEVER Memberships/0). shorts90 CURRENT 353. Analytics 7d CURRENT 52.3h / 4414 views (Sep 20–26, 2026; analytics-7d.webp). Analytics 28d CURRENT 687.4h / 8959 views (Aug 30–Sep 26, 2026; analytics-28d.webp). Identity HARD @Morntidemusic via 01_identity.webp + channel UCjIlIYsKiIyUOVsHpItKOWA. Content board = Data API viewCount. CTR UNVERIFIED. Replaces earlier 2026-09-27 LAST-KNOWN stub (815) now that same-morning Studio pull exists.",
   "content": [
     {
       "title": "Deep Work (1h)",
       "kind": "long",
-      "views": 2445,
+      "views": 2447,
       "id": "MPDy0P-CVc0"
     },
     {
       "title": "First Light (~2h)",
       "kind": "long",
-      "views": 1082,
+      "views": 1083,
       "id": "L11Hc6Jc1SA"
     },
     {
@@ -36,19 +36,19 @@
     {
       "title": "Night Calm (53m)",
       "kind": "long",
-      "views": 148,
+      "views": 149,
       "id": "64tyeo8LkDM"
     },
     {
       "title": "Still Tide (1h)",
       "kind": "long",
-      "views": 117,
+      "views": 121,
       "id": "ZiRfM8u5-oA"
     },
     {
       "title": "Focus Radio VOD 09-22",
       "kind": "live",
-      "views": 93,
+      "views": 94,
       "id": "NLRaVikuQls"
     },
     {
@@ -58,27 +58,15 @@
       "id": "GDv_AyRAm78"
     },
     {
-      "title": "First Light (1h)",
-      "kind": "long",
-      "views": 56,
-      "id": "hSRa7ejUPRM"
-    },
-    {
-      "title": "First Light on the Water",
-      "kind": "long",
-      "views": 16,
-      "id": "FDCP-FRQ_GU"
-    },
-    {
-      "title": "Music for Coding",
-      "kind": "long",
-      "views": 11,
-      "id": "M_ZMGE9oTjE"
+      "title": "Focus Radio VOD 09-24",
+      "kind": "live",
+      "views": 62,
+      "id": "Hqb229qBnis"
     },
     {
       "title": "Still Tide",
       "kind": "short",
-      "views": 1931,
+      "views": 1916,
       "id": "BCJrx7gh-PM"
     },
     {
@@ -88,16 +76,16 @@
       "id": "9nxV-E5x4kM"
     },
     {
-      "title": "First Light on the Water",
-      "kind": "short",
-      "views": 590,
-      "id": "6dkl1uzGgjA"
-    },
-    {
       "title": "Morning focus music",
       "kind": "short",
-      "views": 563,
+      "views": 1183,
       "id": "KAgrw-DIIUM"
+    },
+    {
+      "title": "First Light on the Water",
+      "kind": "short",
+      "views": 658,
+      "id": "6dkl1uzGgjA"
     },
     {
       "title": "Night ambient music",
@@ -107,10 +95,10 @@
     }
   ],
   "recs": [
-    "YPP gate is subscribers (263 / 1,000). Qualified hours LAST-KNOWN 815 (Studio Earn 2026-09-26; Shorts 90d LAST-KNOWN 352). End-screen Subscribe + FOCUS on Deep Work and First Light ~2h.",
-    "Deep Work 1h (2,445 LAST-KNOWN exact) and First Light ~2h (1,082 LAST-KNOWN exact) still carry the catalog. Wake Calm (366 public) is next; do not lead with Night Calm / Still Tide longs.",
-    "Public Shorts LAST-KNOWN: Still Tide (1,931) and Deep Channel (1,371). First Light on the Water Short 590. Funnel into FOCUS. Earn Shorts 90d LAST-KNOWN 352.",
-    "7d LAST-KNOWN 48.0h / 3,857 views. 28d LAST-KNOWN 726.9h / 8,261 views. Keep daily Focus Radio on the Deep Work loop; pin Deep Work.",
-    "Do not log Earn as 0 from the Memberships welcome card. Earn is LAST-KNOWN 815 from Studio YPP public-watch meter. No Studio pull in this workspace today."
+    "YPP gate is subscribers (300 / 1,000). Qualified hours CURRENT 817 (Studio Earn meter as of Sep 22, 2026; Shorts 90d 353). End-screen Subscribe + FOCUS on Deep Work and First Light ~2h.",
+    "Deep Work 1h (2,447) and First Light ~2h (1,083) still carry the catalog. Wake Calm (366) is next; do not lead with Night Calm / Still Tide longs.",
+    "Public Shorts that work: Still Tide (1,916) and Deep Channel (1,371). Morning focus music Short now 1,183 — funnel into FOCUS. Earn Shorts 90d CURRENT 353.",
+    "7d CURRENT 52.3h / 4,414 views (up vs yesterday CURRENT 48.0 / 3,857). 28d CURRENT 687.4h / 8,959 views. Keep daily Focus Radio on the Deep Work loop; pin Deep Work.",
+    "Do not log Earn as 0 from the Memberships welcome card. Earn is CURRENT 817 from Studio YPP public-watch meter (was LAST-KNOWN stub 815 earlier today)."
   ]
 }
