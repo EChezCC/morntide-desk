@@ -1,19 +1,19 @@
 {
-  "day": "2026-09-27",
+  "day": "2026-09-28",
   "channel": "@morntidemusic",
   "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
   "kpis": {
-    "subs": 300,
+    "subs": 330,
     "earn": 817,
     "an7": 52.3,
     "views7": 4414,
     "an28": 687.4,
     "views28": 8959,
-    "channel_views": 9895,
-    "video_count": 22,
+    "channel_views": 10543,
+    "video_count": 23,
     "shorts90": 353
   },
-  "content_source": "YouTube Data API 2026-09-27 PASS @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA (HARD match; 300 subs, 22 videos, 9895 channel views; morning /workspace/desk-studio-pull/20260927/morntide-api.json). Studio Earn CURRENT 817 eyes-on 2026-09-27 (~9:08am ET; as of Sep 22, 2026; YPP public watch hrs meter — NEVER Memberships/0). shorts90 CURRENT 353. Analytics 7d CURRENT 52.3h / 4414 views (Sep 20–26, 2026; analytics-7d.webp). Analytics 28d CURRENT 687.4h / 8959 views (Aug 30–Sep 26, 2026; analytics-28d.webp). Identity HARD @Morntidemusic via 01_identity.webp + channel UCjIlIYsKiIyUOVsHpItKOWA. Content board = Data API viewCount. CTR UNVERIFIED. Replaces earlier 2026-09-27 LAST-KNOWN stub (815) now that same-morning Studio pull exists.",
+  "content_source": "YouTube Data API 2026-09-28 PASS @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA (HARD match; 330 subs, 23 videos, 10543 channel views; Phase A ~09:03 ET). Studio Earn LAST-KNOWN 817 (eyes-on 2026-09-27; YPP public watch hrs as of Sep 22, 2026 — NEVER Memberships/0; no 2026-09-28 Studio pull). shorts90 LAST-KNOWN 353. Analytics 7d LAST-KNOWN 52.3h / 4414 views. Analytics 28d LAST-KNOWN 687.4h / 8959 views. Content board = prior Data API viewCount plus public RSS views for new items. CTR omitted (Content tab not pulled today).",
   "content": [
     {
       "title": "Deep Work (1h)",
@@ -46,6 +46,12 @@
       "id": "ZiRfM8u5-oA"
     },
     {
+      "title": "Focus Radio VOD 09-27",
+      "kind": "live",
+      "views": 105,
+      "id": "sQD1INKXYv0"
+    },
+    {
       "title": "Focus Radio VOD 09-22",
       "kind": "live",
       "views": 94,
@@ -60,7 +66,7 @@
     {
       "title": "Focus Radio VOD 09-24",
       "kind": "live",
-      "views": 62,
+      "views": 66,
       "id": "Hqb229qBnis"
     },
     {
@@ -84,7 +90,7 @@
     {
       "title": "First Light on the Water",
       "kind": "short",
-      "views": 658,
+      "views": 678,
       "id": "6dkl1uzGgjA"
     },
     {
@@ -92,13 +98,19 @@
       "kind": "short",
       "views": 515,
       "id": "uX25We2YQgA"
+    },
+    {
+      "title": "First Light sprint loop",
+      "kind": "short",
+      "views": 322,
+      "id": "TZLnPK6nmBs"
     }
   ],
   "recs": [
-    "YPP gate is subscribers (300 / 1,000). Qualified hours CURRENT 817 (Studio Earn meter as of Sep 22, 2026; Shorts 90d 353). End-screen Subscribe + FOCUS on Deep Work and First Light ~2h.",
+    "YPP gate is subscribers (330 / 1,000). Qualified hours LAST-KNOWN 817 (Studio Earn meter as of Sep 22; no 09-28 Studio pull). End-screen Subscribe + FOCUS on Deep Work and First Light ~2h.",
     "Deep Work 1h (2,447) and First Light ~2h (1,083) still carry the catalog. Wake Calm (366) is next; do not lead with Night Calm / Still Tide longs.",
-    "Public Shorts that work: Still Tide (1,916) and Deep Channel (1,371). Morning focus music Short now 1,183 — funnel into FOCUS. Earn Shorts 90d CURRENT 353.",
-    "7d CURRENT 52.3h / 4,414 views (up vs yesterday CURRENT 48.0 / 3,857). 28d CURRENT 687.4h / 8,959 views. Keep daily Focus Radio on the Deep Work loop; pin Deep Work.",
-    "Do not log Earn as 0 from the Memberships welcome card. Earn is CURRENT 817 from Studio YPP public-watch meter (was LAST-KNOWN stub 815 earlier today)."
+    "Public Shorts that work: Still Tide (1,916) and Deep Channel (1,371). Morning focus music Short 1,183; First Light Short 678 — funnel into FOCUS. Earn Shorts 90d LAST-KNOWN 353.",
+    "7d LAST-KNOWN 52.3h / 4,414 views. 28d LAST-KNOWN 687.4h / 8,959 views. Keep daily Focus Radio on the Deep Work loop; pin Deep Work.",
+    "Do not log Earn as 0 from the Memberships welcome card. Earn is LAST-KNOWN 817 from Studio YPP public-watch meter (2026-09-27 eyes-on)."
   ]
 }
