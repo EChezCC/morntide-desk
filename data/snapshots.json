@@ -1,5 +1,22 @@
 [
   {
+    "day": "2026-09-28",
+    "subs": 330,
+    "earn": 817,
+    "an7": 52.3,
+    "an28": 687.4,
+    "views7": 4414,
+    "views28": 8959,
+    "channel_views": 10543,
+    "video_count": 23,
+    "channel": "@morntidemusic",
+    "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
+    "source": "YouTube Data API PASS 2026-09-28 + Studio Earn/Analytics LAST-KNOWN 2026-09-27 @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA",
+    "notes": "Qualified public watch hours 817 LAST-KNOWN (Studio YPP meter as of Sep 22, 2026; no 09-28 Studio pull). shorts90 LAST-KNOWN 353. Analytics 7d LAST-KNOWN 52.3h/4414; 28d LAST-KNOWN 687.4h/8959. Do not treat Memberships welcome card as 0.",
+    "shorts90": 353,
+    "note": "Earn LAST-KNOWN 817 Studio eyes-on 2026-09-27 (as of Sep 22); Analytics 7d/28d LAST-KNOWN"
+  },
+  {
     "day": "2026-09-27",
     "subs": 300,
     "earn": 817,
