@@ -1,19 +1,19 @@
 {
-  "day": "2026-09-29",
+  "day": "2026-09-30",
   "channel": "@morntidemusic",
   "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
   "kpis": {
-    "subs": 372,
+    "subs": 403,
     "earn": 835,
     "an7": 54.0,
     "views7": 4197,
     "an28": 568.7,
     "views28": 9584,
     "channel_views": 11350,
-    "video_count": 24,
+    "video_count": 25,
     "shorts90": 366
   },
-  "content_source": "YouTube Data API 2026-09-29 PASS @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA (HARD match; 372 subs, 24 videos, 11350 channel views; morning /workspace/desk-studio-pull/20260929/morntide-api.json). Studio Earn CURRENT 835 eyes-on 2026-09-29 (~9:11am ET; as of Sep 24, 2026; YPP public watch hrs meter — NEVER Memberships/0). shorts90 CURRENT 366. Analytics 7d CURRENT 54.0h / 4197 views (Sep 22 – 28, 2026; analytics-7d.webp). Analytics 28d CURRENT 568.7h / 9584 views (Sep 1 – 28, 2026; analytics-28d.webp). Identity HARD @Morntidemusic via 01_identity.webp + channel UCjIlIYsKiIyUOVsHpItKOWA. Content board = Data API viewCount. CTR UNVERIFIED on API board (Studio content-tab has 7d Advanced CTR; board stays API views). Replaces earlier 2026-09-29 LAST-KNOWN stub (822) now that same-morning Studio pull exists.",
+  "content_source": "YouTube public PASS 2026-09-30 HARD @Morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA (403 subscribers, 25 videos; innertube header + player viewCount). Studio Earn LAST-KNOWN 835 (2026-09-29 eyes-on; YPP public watch hrs — NEVER Memberships/0). shorts90 LAST-KNOWN 366. Analytics 7d LAST-KNOWN 54.0h / 4197; 28d LAST-KNOWN 568.7h / 9584 (no 8:50 Studio pull in this box). Content board = player viewCount. CTR omitted (no invent). channel_views LAST-KNOWN 11350 (Data API 2026-09-29).",
   "content": [
     {
       "title": "Deep Work (1h)",
@@ -24,7 +24,7 @@
     {
       "title": "First Light (~2h)",
       "kind": "long",
-      "views": 1084,
+      "views": 1085,
       "id": "L11Hc6Jc1SA"
     },
     {
@@ -66,7 +66,7 @@
     {
       "title": "Morning focus music",
       "kind": "short",
-      "views": 1921,
+      "views": 2542,
       "id": "KAgrw-DIIUM"
     },
     {
@@ -78,27 +78,27 @@
     {
       "title": "Deep Channel",
       "kind": "short",
-      "views": 1372,
+      "views": 1374,
       "id": "9nxV-E5x4kM"
     },
     {
       "title": "First Light on the Water",
       "kind": "short",
-      "views": 683,
+      "views": 686,
       "id": "6dkl1uzGgjA"
     },
     {
       "title": "Night ambient music",
       "kind": "short",
-      "views": 516,
+      "views": 517,
       "id": "uX25We2YQgA"
     }
   ],
   "recs": [
-    "YPP gate is subscribers (372 / 1,000). Qualified hours CURRENT 835 (Studio Earn meter as of Sep 24, 2026; Shorts 90d 366). End-screen Subscribe + FOCUS on Deep Work and First Light ~2h.",
-    "Deep Work 1h (2,446) and First Light ~2h (1,084) still carry the catalog. Wake Calm (367) is next; do not lead with Night Calm / Still Tide longs.",
-    "Public Shorts that work: Morning focus music (1,921) leads Still Tide (1,914). Deep Channel (1,372) stays strong — funnel into FOCUS. Earn Shorts 90d CURRENT 366.",
-    "7d CURRENT 54.0h / 4,197 views (vs yesterday CURRENT 53.6 / 4,647). 28d CURRENT 568.7h / 9,584 views. Keep daily Focus Radio on the Deep Work loop; pin Deep Work.",
-    "Do not log Earn as 0 from the Memberships welcome card. Earn is CURRENT 835 from Studio YPP public-watch meter (was LAST-KNOWN stub 822 earlier today)."
+    "YPP gate is subscribers (403 / 1,000). Qualified hours LAST-KNOWN 835. End-screen Subscribe + FOCUS on Deep Work and First Light ~2h.",
+    "Deep Work 1h (2,446) and First Light ~2h (1,085) still carry the catalog. Wake Calm (367) is next; do not lead with Night Calm / Still Tide longs.",
+    "Public Shorts that work: Morning focus music (2,542) now leads Still Tide (1,914). Deep Channel (1,374) stays strong — funnel into FOCUS.",
+    "7d LAST-KNOWN 54.0h / 4,197; 28d LAST-KNOWN 568.7h / 9,584. Keep daily Focus Radio on the Deep Work loop; pin Deep Work.",
+    "Do not log Earn as 0 from the Memberships welcome card. Earn stays LAST-KNOWN 835 until the next Studio YPP meter pull."
   ]
 }
