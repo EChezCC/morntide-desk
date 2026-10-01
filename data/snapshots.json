@@ -1,5 +1,22 @@
 [
   {
+    "day": "2026-10-01",
+    "subs": 437,
+    "earn": 835,
+    "an7": 46.2,
+    "an28": 412.6,
+    "views7": 4248,
+    "views28": 10233,
+    "channel_views": 12516,
+    "video_count": 26,
+    "channel": "@morntidemusic",
+    "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
+    "source": "Studio eyes-on HARD 2026-10-01 @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA — Analytics CURRENT; Earn LAST-KNOWN (Earn blank, no YPP meter) + Data API CURRENT for channel_views/video_count",
+    "notes": "Qualified public watch hours 835 LAST-KNOWN (no YPP meter on Earn tab 2026-10-01; prior eyes-on 2026-09-29 as of Sep 24). shorts90 LAST-KNOWN 366. Analytics 7d CURRENT 46.2h/4248; 28d CURRENT 412.6h/10233. Subs CURRENT 437 Studio. channel_views CURRENT 12516 Data API. Do not treat blank Earn / Memberships welcome as 0.",
+    "shorts90": 366,
+    "note": "Earn LAST-KNOWN 835; Analytics 7d/28d CURRENT Studio eyes-on 2026-10-01; subs CURRENT 437"
+  },
+  {
     "day": "2026-09-30",
     "subs": 403,
     "earn": 835,
@@ -11,7 +28,7 @@
     "video_count": 25,
     "channel": "@morntidemusic",
     "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
-    "source": "Studio eyes-on HARD 2026-09-30 @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA \u2014 Analytics CURRENT; Earn LAST-KNOWN (Memberships welcome, no YPP meter)",
+    "source": "Studio eyes-on HARD 2026-09-30 @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA — Analytics CURRENT; Earn LAST-KNOWN (Memberships welcome, no YPP meter)",
     "notes": "Qualified public watch hours 835 LAST-KNOWN (no YPP meter on Earn tab 2026-09-30; prior eyes-on 2026-09-29 as of Sep 24). shorts90 LAST-KNOWN 366. Analytics 7d CURRENT 49.8h/4066; 28d CURRENT 474.6h/9924. Subs CURRENT 403. Do not treat Memberships welcome card as 0. Replaces earlier same-day LAST-KNOWN analytics stub.",
     "shorts90": 366,
     "note": "Earn LAST-KNOWN 835; Analytics 7d/28d CURRENT Studio eyes-on 2026-09-30; subs CURRENT 403"
