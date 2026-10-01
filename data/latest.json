@@ -1,19 +1,19 @@
 {
-  "day": "2026-09-30",
+  "day": "2026-10-01",
   "channel": "@morntidemusic",
   "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
   "kpis": {
-    "subs": 403,
+    "subs": 436,
     "earn": 835,
     "an7": 49.8,
     "views7": 4066,
     "an28": 474.6,
     "views28": 9924,
     "channel_views": 11350,
-    "video_count": 25,
+    "video_count": 26,
     "shorts90": 366
   },
-  "content_source": "Studio eyes-on HARD @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA 2026-09-30 (~9:10am ET; proof /workspace/desk-studio-pull/20260930/studio-proof/morntide/). Identity CURRENT via 01_identity.webp. Subs CURRENT 403 (Studio dashboard). Data API OAuth invalid_grant \u2014 video_count 25 from public header (already on desk). channel_views LAST-KNOWN 11350 (Data API 2026-09-29). Studio Earn LAST-KNOWN 835 (Earn tab showed Memberships welcome only \u2014 no YPP public-watch\u21924000 meter / as-of / Shorts 90d; NEVER Memberships/0). shorts90 LAST-KNOWN 366. Analytics 7d CURRENT 49.8h / 4066 views (Sep 23 \u2013 29, 2026; 05_analytics_7d.webp). Analytics 28d CURRENT 474.6h / 9924 views (Sep 2 \u2013 29, 2026; 04_analytics_28d.webp). Content board = prior public player viewCount (lifetime; Data API fail). CTR omitted on board. Replaces earlier 2026-09-30 LAST-KNOWN analytics stub now that same-morning Studio Analytics exists.",
+  "content_source": "Public header CURRENT 2026-10-01 ~9:10am ET @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA (youtube.com/@Morntidemusic: 436 subscribers, 26 videos). No 8:50 Studio pull file on disk — Earn tab not opened, so YPP meter MISSING. Earn LAST-KNOWN 835 (Studio eyes-on 2026-09-29 as of Sep 24; NEVER Memberships/0; do not regress to 801). shorts90 LAST-KNOWN 366. Analytics 7d LAST-KNOWN 49.8h / 4066 views (Sep 23–29, Studio 2026-09-30). Analytics 28d LAST-KNOWN 474.6h / 9924 views (Sep 2–29). channel_views LAST-KNOWN 11350 (Data API 2026-09-29). Content tab missing — board carried from 2026-09-30 public player viewCount. CTR omitted. No invented views.",
   "content": [
     {
       "title": "Deep Work (1h)",
@@ -95,10 +95,10 @@
     }
   ],
   "recs": [
-    "YPP gate is subscribers (403 / 1,000). Qualified hours LAST-KNOWN 835 (Studio Earn tab today = Memberships welcome only; meter not on screen). End-screen Subscribe + FOCUS on Deep Work and First Light ~2h.",
-    "Deep Work 1h (2,446) and First Light ~2h (1,085) still carry the catalog. Wake Calm (367) is next; do not lead with Night Calm / Still Tide longs.",
-    "Public Shorts that work: Morning focus music (2,542) leads Still Tide (1,914). Deep Channel (1,374) stays strong \u2014 funnel into FOCUS. Earn Shorts 90d LAST-KNOWN 366.",
-    "7d CURRENT 49.8h / 4,066 views (vs prior stub LAST-KNOWN 54.0 / 4,197). 28d CURRENT 474.6h / 9,924 views. Keep daily Focus Radio on the Deep Work loop; pin Deep Work.",
-    "Do not log Earn as 0 from the Memberships welcome card. Earn stays LAST-KNOWN 835 until the next Studio YPP public-watch meter pull."
+    "YPP gate is subscribers (436 / 1,000, public header). Qualified hours LAST-KNOWN 835 — meter not on screen today. End-screen Subscribe + FOCUS on Deep Work and First Light ~2h.",
+    "Catalog still led by Deep Work 1h (2,446) and First Light ~2h (1,085). Wake Calm (367) is next. Do not lead with Night Calm or Still Tide longs.",
+    "Shorts that work: Morning focus music (2,542) then Still Tide (1,914) and Deep Channel (1,374). Funnel into FOCUS. Earn Shorts 90d LAST-KNOWN 366.",
+    "7d LAST-KNOWN 49.8h / 4,066 views; 28d LAST-KNOWN 474.6h / 9,924. Keep daily Focus Radio on the Deep Work loop; pin Deep Work. Thursday Oct 1 Radio is live.",
+    "Do not log Earn as 0 from the Memberships welcome card. Earn stays LAST-KNOWN 835 until the next Studio YPP public-watch meter."
   ]
 }
