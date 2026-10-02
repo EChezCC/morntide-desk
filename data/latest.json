@@ -3,22 +3,22 @@
   "channel": "@morntidemusic",
   "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
   "kpis": {
-    "subs": 479,
-    "earn": 854,
-    "an7": 37.1,
-    "views7": 4621,
-    "an28": 358.2,
-    "views28": 10661,
-    "channel_views": 13162,
+    "subs": 480,
+    "earn": 835,
+    "an7": 46.2,
+    "views7": 4248,
+    "an28": 412.6,
+    "views28": 10233,
+    "channel_views": 12516,
     "video_count": 27,
-    "shorts90": 446
+    "shorts90": 366
   },
-  "content_source": "Studio eyes-on HARD @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA 2026-10-02 (~9:04\u20139:08am ET; proof /workspace/desk-studio-pull/20261002/studio-proof/morntide/). Identity CURRENT via 01_identity.webp. Subs CURRENT 479 (Studio Earn + dashboard; Data API 477 at Phase A ~8:51am). video_count 27 CURRENT Data API. channel_views CURRENT 13162 Data API. Studio Earn CURRENT 854 (YPP public-watch\u21924000 meter as of Sep 27, 2026; 03_earn.webp \u2014 NOT stale 835). shorts90 CURRENT 446 (Earn tab). Analytics 7d CURRENT 37.1h / 4621 views (Sep 25 \u2013 Oct 1, 2026 (Last 7 days); 05_analytics_7d.webp). Analytics 28d CURRENT 358.2h / 10661 views (Sep 4 \u2013 Oct 1, 2026 (Last 28 days); 04_analytics_28d.webp). Content board = Data API lifetime viewCount (top longs + Shorts). CTR omitted on board. Stale REPORT.json from 08:53 BLOCKED stub superseded by eyes-on screenshots.",
+  "content_source": "Public YouTube HARD @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA 2026-10-02 (~9:09am ET, signed-out about). Identity CURRENT. Subs CURRENT 480. video_count CURRENT 27. No Studio Earn meter this pull — Earn LAST-KNOWN 835 (eyes-on 2026-09-29 as of Sep 24; NEVER Memberships/0; floor 801 not applied over the later meter). shorts90 LAST-KNOWN 366. Analytics 7d/28d LAST-KNOWN from 2026-10-01 Studio (46.2h/4248; 412.6h/10233). channel_views LAST-KNOWN 12516 (Data API 2026-10-01). Content board kept from 2026-10-01 Data API — Content tab not pulled; CTR omitted; views not invented.",
   "content": [
     {
       "title": "Deep Work (1h)",
       "kind": "long",
-      "views": 2450,
+      "views": 2446,
       "id": "MPDy0P-CVc0"
     },
     {
@@ -30,7 +30,7 @@
     {
       "title": "Wake Calm",
       "kind": "long",
-      "views": 370,
+      "views": 369,
       "id": "uPqitC0mm4g"
     },
     {
@@ -60,13 +60,13 @@
     {
       "title": "First Light on the Water (1h)",
       "kind": "long",
-      "views": 74,
+      "views": 72,
       "id": "FDCP-FRQ_GU"
     },
     {
       "title": "Morning focus music",
       "kind": "short",
-      "views": 3720,
+      "views": 3083,
       "id": "KAgrw-DIIUM"
     },
     {
@@ -84,7 +84,7 @@
     {
       "title": "First Light on the Water",
       "kind": "short",
-      "views": 690,
+      "views": 689,
       "id": "6dkl1uzGgjA"
     },
     {
@@ -95,10 +95,10 @@
     }
   ],
   "recs": [
-    "YPP gate is subscribers (479 / 1,000). Qualified hours CURRENT 854 (as of Sep 27; never 0). End-screen Subscribe + FOCUS on Deep Work and First Light ~2h.",
-    "Deep Work 1h (2,450) and First Light ~2h (1,085) still carry the catalog. Wake Calm (370) is next; do not lead with Night Calm / Still Tide longs.",
-    "Public Shorts that work: Morning focus music (3,720) leads Still Tide (1,914). Deep Channel (1,374) stays strong \u2014 funnel into FOCUS. Earn Shorts 90d CURRENT 446.",
-    "7d CURRENT 37.1h / 4,621 views (vs prior 46.2 / 4,248). 28d CURRENT 358.2h / 10,661 views (vs prior 412.6 / 10,233). Keep daily Focus Radio on the Deep Work loop; pin Deep Work.",
-    "Do not log Earn as 0 from a blank Earn tab or Memberships welcome card. Earn is CURRENT 854 from Studio YPP meter eyes-on 2026-10-02."
+    "YPP gate is subscribers (480 / 1,000, public CURRENT). Qualified hours LAST-KNOWN 835 — no YPP meter this pull; never 0. End-screen Subscribe + FOCUS on Deep Work and First Light ~2h.",
+    "Deep Work 1h (2,446) and First Light ~2h (1,085) still carry the catalog. Wake Calm (369) is next; do not lead with Night Calm / Still Tide longs.",
+    "Public Shorts that work: Morning focus music (3,083) leads Still Tide (1,914). Deep Channel (1,374) stays strong — funnel into FOCUS. Earn Shorts 90d LAST-KNOWN 366.",
+    "7d LAST-KNOWN 46.2h / 4,248 views; 28d LAST-KNOWN 412.6h / 10,233 views (Studio 2026-10-01; no Analytics pull today). Keep daily Focus Radio on the Deep Work loop; pin Deep Work.",
+    "Do not log Earn as 0 from a blank Earn tab or Memberships welcome card. Earn stays LAST-KNOWN 835 until the next Studio YPP public-watch meter pull."
   ]
 }
