@@ -9,22 +9,22 @@
     "views7": 3847,
     "an28": 238.4,
     "views28": 10860,
-    "channel_views": 14275,
+    "channel_views": 14375,
     "video_count": 35,
     "shorts90": 455
   },
-  "content_source": "Public channel page CURRENT HARD @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA 2026-10-05 ~09:11 ET (youtube.com/@Morntidemusic about+videos+shorts). Subs CURRENT 498. video_count CURRENT 35. Studio Phase B NOT in this workspace — Earn/Analytics/shorts90/channel_views LAST-KNOWN from 2026-10-04 eyes-on. Earn LAST-KNOWN 860 (YPP public-watch meter as of Sep 29, 2026; never Memberships/0; floor 801 not applied over the Oct 4 meter). shorts90 LAST-KNOWN 455. Analytics 7d LAST-KNOWN 37.3h / 3847 views (Sep 27–Oct 3). Analytics 28d LAST-KNOWN 238.4h / 10860 views (Sep 6–Oct 3). channel_views LAST-KNOWN 14275. Content board = public tab counts; rounded public figures (2.4K/1K/4.2K/1.9K/1.3K) keep last Data API exact, not invented. No per-row CTR. No hours on rows.",
+  "content_source": "Data API CURRENT HARD @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA 2026-10-05 08:54 ET (proof /workspace/desk-studio-pull/20261005/morntide-api.json). Subs CURRENT 498. video_count CURRENT 35. channel_views CURRENT 14375. Content board rows with id = Data API lifetime viewCount (exact, 08:54 ET); rows without id = public channel tab counts ~09:11 ET. Studio Phase B UNVERIFIED 2026-10-05 (Desk Studio pull failed; no studio-proof/morntide/REPORT.json) — Earn/Analytics/shorts90 LAST-KNOWN from 2026-10-04 eyes-on. Earn LAST-KNOWN 860 (YPP public-watch meter as of Sep 29, 2026; never Memberships/0). shorts90 LAST-KNOWN 455. Analytics 7d LAST-KNOWN 37.3h / 3847 views (Sep 27–Oct 3). Analytics 28d LAST-KNOWN 238.4h / 10860 views (Sep 6–Oct 3). No per-row CTR. No hours on rows. Supersedes 09:13 ET public-page write.",
   "content": [
     {
       "title": "Deep Work (1h)",
       "kind": "long",
-      "views": 2455,
+      "views": 2457,
       "id": "MPDy0P-CVc0"
     },
     {
       "title": "First Light (~2h)",
       "kind": "long",
-      "views": 1085,
+      "views": 1087,
       "id": "L11Hc6Jc1SA"
     },
     {
@@ -74,7 +74,7 @@
     {
       "title": "Morning focus music",
       "kind": "short",
-      "views": 4203,
+      "views": 4201,
       "id": "KAgrw-DIIUM"
     },
     {
@@ -86,7 +86,7 @@
     {
       "title": "Deep Channel",
       "kind": "short",
-      "views": 1374,
+      "views": 1375,
       "id": "9nxV-E5x4kM"
     },
     {
@@ -123,10 +123,10 @@
     }
   ],
   "recs": [
-    "YPP gate is subscribers (498 / 1,000, public page). Qualified hours LAST-KNOWN 860 (Oct 4 Studio meter as of Sep 29; never 0; floor 801 not applied). End-screen Subscribe on Deep Work and First Light ~2h.",
-    "Deep Work 1h (2,455 last exact; public 2.4K) and First Light ~2h (1,085 last exact; public 1K) still carry the catalog. Wake Calm 370 next. Do not lead with Night Calm or Still Tide longs.",
+    "YPP gate is subscribers (498 / 1,000, Data API). Qualified hours LAST-KNOWN 860 (Oct 4 Studio meter as of Sep 29; never 0; floor 801 not applied). End-screen Subscribe on Deep Work and First Light ~2h.",
+    "Deep Work 1h (2,457) and First Light ~2h (1,087) still carry the catalog. Wake Calm 370 next. Do not lead with Night Calm or Still Tide longs.",
     "New 8h sleep/spa uploads are not the hours plan: Spa Bowls 26, Ocean Night 19, Rainforest Rain 3. HOLD spa/meditation on FOCUS. Keep the daily loop on Deep Work.",
-    "Shorts funnel unchanged: Morning focus music (4,203 / public 4.2K) leads Still Tide (1,914) and Deep Channel (1,374). New Shorts are small (Ocean 87, Coding 67, Spa 61). Earn Shorts 90d LAST-KNOWN 455.",
+    "Shorts funnel unchanged: Morning focus music (4,201) leads Still Tide (1,914) and Deep Channel (1,375). New Shorts are small (Ocean 87, Coding 67, Spa 61). Earn Shorts 90d LAST-KNOWN 455.",
     "Analytics LAST-KNOWN 7d 37.3h / 3,847 views and 28d 238.4h / 10,860 views (Studio 2026-10-04). No CTR on rows. Do not log Earn as 0 from a blank Earn tab or Memberships card."
   ]
 }
