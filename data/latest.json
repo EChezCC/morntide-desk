@@ -1,19 +1,19 @@
 {
-  "day": "2026-10-07",
+  "day": "2026-10-08",
   "channel": "@morntidemusic",
   "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
   "kpis": {
     "subs": 498,
-    "earn": 869,
-    "an7": 43.4,
-    "views7": 2591,
-    "an28": 185.1,
-    "views28": 10886,
-    "channel_views": 14574,
-    "video_count": 40,
+    "earn": 878,
+    "an7": 53.5,
+    "views7": 2182,
+    "an28": 188,
+    "views28": 10958,
+    "channel_views": 14746,
+    "video_count": 41,
     "shorts90": 457
   },
-  "content_source": "Studio eyes-on CURRENT HARD @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA 2026-10-07 ~09:05-09:15 ET (identity OK; proof /workspace/desk-studio-pull/20261007/studio-proof/morntide/REPORT.json + 5 screenshots). Earn CURRENT 869 qualified public watch hours (YPP meter as of Oct 2, 2026; 365d). shorts90 CURRENT 457. Analytics 7d CURRENT 43.4h / 2591 views (Sep 30 – Oct 6, 2026). Analytics 28d CURRENT 185.1h / 10886 views (Sep 9 – Oct 6, 2026). Data API CURRENT 2026-10-07 09:03 ET: subs 498, video_count 40, channel_views 14574. Content rows with id = Data API lifetime viewCount (09:03 ET); rows without id = public tab counts ~09:11 ET. No per-row CTR or hours (Studio 7d thumbnail CTR 1.5% on 14.1K impressions, channel-level only). Supersedes 09:11 ET public-page write that marked Studio UNVERIFIED.",
+  "content_source": "Studio CURRENT via 2026-10-08 ~08:50 Desk pull (YCM eyes-on this morning; Earn/Analytics). Public About CURRENT ~09:10 ET HARD @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA: subs 498, video_count 41, channel_views 14746. Earn CURRENT 878 qualified public watch hours (YPP meter as of Oct 3, 2026). Analytics 7d CURRENT 53.5h / 2182 views (+67 subs; Shorts 80% of 7d views). Analytics 28d CURRENT 188h / 10958 views (+378 subs). Channel thumbnail CTR 1.5% on 15.8K impressions (channel-level only). shorts90 LAST-KNOWN 457 (not on this morning's pull). Content rows kept from 2026-10-07: Studio top-videos-by-type did not load. No per-row CTR. Do not log Earn 0 from a Memberships card.",
   "content": [
     {
       "title": "Deep Work (1h)",
@@ -143,10 +143,10 @@
     }
   ],
   "recs": [
-    "YPP gate is subscribers (498 / 1,000, Data API). Qualified hours CURRENT 869 (Studio meter as of Oct 2, 2026; eyes-on 2026-10-07). End-screen Subscribe on Deep Work and First Light ~2h.",
-    "Deep Work 1h (2,463) and First Light ~2h (1,087) still carry the catalog. Wake Calm 371 next. Do not lead with Night Calm or Still Tide longs.",
-    "New 2h ocean-cliff long is 7 views at 13h. 8h Deep Focus Ambient still 1 view. Spa Bowls 27, Ocean Night 21, Rainforest 19 (public tab). HOLD spa/meditation on FOCUS. Keep the daily loop on Deep Work.",
-    "Shorts funnel unchanged at the top: Morning focus music (4,200) leads Still Tide (1,914) and Deep Channel (1,375). Shorts are 85.4% of 7d views. Earn Shorts 90d CURRENT 457.",
-    "Analytics CURRENT 7d 43.4h / 2,591 views and 28d 185.1h / 10,886 views (Studio 2026-10-07). 7d subs +103. Channel thumbnail CTR 1.5%; no CTR on rows. Do not log Earn as 0 from a blank Earn tab or Memberships card."
+    "YPP gate is subscribers (498 / 1,000, public About). Qualified hours CURRENT 878 (Studio meter as of Oct 3, 2026; 08:50 pull). End-screen Subscribe on Deep Work and First Light ~2h.",
+    "Studio top long is still Deep Work Session (2,467). First Light ~2h (1,087, prior row) is next. Do not lead with Night Calm or the new 8h sleep/spa longs.",
+    "Public tab: 2h ocean-cliff long is 9 views at 1d. 8h work-done still 1 view. Rainforest 31, Spa Bowls 27, Ocean Night 21. HOLD spa/meditation on FOCUS. Keep the daily loop on Deep Work.",
+    "Shorts are 80% of 7d views. Morning focus music still leads at 4,200. shorts90 LAST-KNOWN 457 (not on this pull).",
+    "Analytics CURRENT 7d 53.5h / 2,182 views (+67 subs) and 28d 188h / 10,958 views (Studio 2026-10-08). Channel CTR 1.5% on 15.8K impressions; no CTR on rows. Do not log Earn as 0 from a blank Earn tab or Memberships card."
   ]
 }
