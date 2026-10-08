@@ -7,18 +7,18 @@
     "earn": 878,
     "an7": 53.5,
     "views7": 2182,
-    "an28": 188,
+    "an28": 188.0,
     "views28": 10958,
     "channel_views": 14746,
     "video_count": 41,
-    "shorts90": 457
+    "shorts90": 492
   },
-  "content_source": "Studio CURRENT via 2026-10-08 ~08:50 Desk pull (YCM eyes-on this morning; Earn/Analytics). Public About CURRENT ~09:10 ET HARD @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA: subs 498, video_count 41, channel_views 14746. Earn CURRENT 878 qualified public watch hours (YPP meter as of Oct 3, 2026). Analytics 7d CURRENT 53.5h / 2182 views (+67 subs; Shorts 80% of 7d views). Analytics 28d CURRENT 188h / 10958 views (+378 subs). Channel thumbnail CTR 1.5% on 15.8K impressions (channel-level only). shorts90 LAST-KNOWN 457 (not on this morning's pull). Content rows kept from 2026-10-07: Studio top-videos-by-type did not load. No per-row CTR. Do not log Earn 0 from a Memberships card.",
+  "content_source": "Studio eyes-on CURRENT HARD @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA 2026-10-08 ~08:57-09:04 ET (identity OK; proof /workspace/desk-studio-pull/20261008/studio-proof/morntide/REPORT.json + 5 screenshots). Earn CURRENT 878 qualified public watch hours (YPP meter as of Oct 3, 2026; 365d). shorts90 CURRENT 492 qualified Shorts views (90d, same meter). Analytics 7d CURRENT 53.5h / 2182 views (+67 subs; Oct 1 – 7, 2026). Analytics 28d CURRENT 188.0h / 10958 views (+378 subs; Sep 10 – Oct 7, 2026). Data API CURRENT 2026-10-08 08:55 ET: subs 498, video_count 41, channel_views 14746. Content rows with id = Data API lifetime viewCount (08:55 ET); rows without id kept from 2026-10-07 (Studio top-videos-by-type did not load). Channel thumbnail CTR 1.5% on 15.8K impressions (channel-level only; no per-row CTR or hours). Do not log Earn 0 from a Memberships card.",
   "content": [
     {
       "title": "Deep Work (1h)",
       "kind": "long",
-      "views": 2463,
+      "views": 2467,
       "id": "MPDy0P-CVc0"
     },
     {
@@ -90,19 +90,19 @@
     {
       "title": "Still Tide",
       "kind": "short",
-      "views": 1914,
+      "views": 1915,
       "id": "BCJrx7gh-PM"
     },
     {
       "title": "Deep Channel",
       "kind": "short",
-      "views": 1375,
+      "views": 1377,
       "id": "9nxV-E5x4kM"
     },
     {
       "title": "First Light on the Water",
       "kind": "short",
-      "views": 699,
+      "views": 703,
       "id": "6dkl1uzGgjA"
     },
     {
@@ -144,9 +144,9 @@
   ],
   "recs": [
     "YPP gate is subscribers (498 / 1,000, public About). Qualified hours CURRENT 878 (Studio meter as of Oct 3, 2026; 08:50 pull). End-screen Subscribe on Deep Work and First Light ~2h.",
-    "Studio top long is still Deep Work Session (2,467). First Light ~2h (1,087, prior row) is next. Do not lead with Night Calm or the new 8h sleep/spa longs.",
+    "Deep Work 1h (2,467) and First Light ~2h (1,087) still carry the catalog. Wake Calm 371 next. Do not lead with Night Calm or the new 8h sleep/spa longs.",
     "Public tab: 2h ocean-cliff long is 9 views at 1d. 8h work-done still 1 view. Rainforest 31, Spa Bowls 27, Ocean Night 21. HOLD spa/meditation on FOCUS. Keep the daily loop on Deep Work.",
-    "Shorts are 80% of 7d views. Morning focus music still leads at 4,200. shorts90 LAST-KNOWN 457 (not on this pull).",
+    "Shorts are 80.0% of 7d views. Morning focus music still leads at 4,200, then Still Tide (1,915) and Deep Channel (1,377). shorts90 CURRENT 492 (Studio Earn meter as of Oct 3, 2026).",
     "Analytics CURRENT 7d 53.5h / 2,182 views (+67 subs) and 28d 188h / 10,958 views (Studio 2026-10-08). Channel CTR 1.5% on 15.8K impressions; no CTR on rows. Do not log Earn as 0 from a blank Earn tab or Memberships card."
   ]
 }
