@@ -1,19 +1,19 @@
 {
-  "day": "2026-10-08",
+  "day": "2026-10-09",
   "channel": "@morntidemusic",
   "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
   "kpis": {
-    "subs": 498,
+    "subs": 499,
     "earn": 878,
-    "an7": 53.5,
-    "views7": 2182,
-    "an28": 188.0,
-    "views28": 10958,
-    "channel_views": 14746,
-    "video_count": 41,
+    "an7": 39.4,
+    "views7": 1317,
+    "an28": 168.7,
+    "views28": 10791,
+    "channel_views": 14854,
+    "video_count": 42,
     "shorts90": 492
   },
-  "content_source": "Studio eyes-on CURRENT HARD @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA 2026-10-08 ~08:57-09:04 ET (identity OK; proof /workspace/desk-studio-pull/20261008/studio-proof/morntide/REPORT.json + 5 screenshots). Earn CURRENT 878 qualified public watch hours (YPP meter as of Oct 3, 2026; 365d). shorts90 CURRENT 492 qualified Shorts views (90d, same meter). Analytics 7d CURRENT 53.5h / 2182 views (+67 subs; Oct 1 – 7, 2026). Analytics 28d CURRENT 188.0h / 10958 views (+378 subs; Sep 10 – Oct 7, 2026). Data API CURRENT 2026-10-08 08:55 ET: subs 498, video_count 41, channel_views 14746. Content rows with id = Data API lifetime viewCount (08:55 ET); rows without id kept from 2026-10-07 (Studio top-videos-by-type did not load). Channel thumbnail CTR 1.5% on 15.8K impressions (channel-level only; no per-row CTR or hours). Do not log Earn 0 from a Memberships card.",
+  "content_source": "HARD @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA 2026-10-09 ~09:11 ET. Public About + vidIQ currentStats: subs 499, video_count 42, channel_views 14854. Analytics API CURRENT 7d 39.4h / 1317 views (Oct 2\u20138; Shorts 1045 / 79.3%, live 162, VOD 110; 2363 min). Analytics API CURRENT 28d 168.7h / 10791 views (Sep 11\u2013Oct 8; 10124 min). Earn LAST-KNOWN 878 (Studio YPP meter as of Oct 3, 2026; eyes-on 2026-10-08). shorts90 LAST-KNOWN 492. No Studio Earn meter this morning \u2014 not 0, not reset to 801. Content views = vidIQ lifetime viewCount; no hours or CTR on rows.",
   "content": [
     {
       "title": "Deep Work (1h)",
@@ -24,7 +24,7 @@
     {
       "title": "First Light (~2h)",
       "kind": "long",
-      "views": 1087,
+      "views": 1088,
       "id": "L11Hc6Jc1SA"
     },
     {
@@ -54,37 +54,43 @@
     {
       "title": "Music for Coding (3h)",
       "kind": "long",
-      "views": 34
-    },
-    {
-      "title": "Spa Bowls (8h)",
-      "kind": "long",
-      "views": 27
-    },
-    {
-      "title": "Ocean Night (8h)",
-      "kind": "long",
-      "views": 21
+      "views": 34,
+      "id": "c72ld4iNns8"
     },
     {
       "title": "Rainforest Rain at Night (8h)",
       "kind": "long",
-      "views": 19
+      "views": 33,
+      "id": "DnELf6IoANQ"
+    },
+    {
+      "title": "Spa Bowls (8h)",
+      "kind": "long",
+      "views": 27,
+      "id": "U78G7IYZ51o"
+    },
+    {
+      "title": "Ocean Night (8h)",
+      "kind": "long",
+      "views": 21,
+      "id": "-CZW0rGHg5o"
     },
     {
       "title": "Deep Work Ambience (2h ocean cliff)",
       "kind": "long",
-      "views": 7
+      "views": 21,
+      "id": "s-IjylbAUDY"
     },
     {
       "title": "8 Hours Deep Focus Ambient",
       "kind": "long",
-      "views": 1
+      "views": 2,
+      "id": "uHdbPDJkfGs"
     },
     {
       "title": "Morning focus music",
       "kind": "short",
-      "views": 4200,
+      "views": 4201,
       "id": "KAgrw-DIIUM"
     },
     {
@@ -96,13 +102,13 @@
     {
       "title": "Deep Channel",
       "kind": "short",
-      "views": 1377,
+      "views": 1378,
       "id": "9nxV-E5x4kM"
     },
     {
       "title": "First Light on the Water",
       "kind": "short",
-      "views": 703,
+      "views": 700,
       "id": "6dkl1uzGgjA"
     },
     {
@@ -114,39 +120,39 @@
     {
       "title": "First Light sprint",
       "kind": "short",
-      "views": 331
+      "views": 331,
+      "id": "TZLnPK6nmBs"
     },
     {
       "title": "Need to get work done",
       "kind": "short",
-      "views": 182
+      "views": 205,
+      "id": "6UoDC8UFzj0"
     },
     {
       "title": "Ocean Night",
       "kind": "short",
-      "views": 100
+      "views": 101,
+      "id": "WqhaduWaToI"
     },
     {
       "title": "Spa Bowls",
       "kind": "short",
-      "views": 75
+      "views": 76,
+      "id": "QI3qG1IEn4s"
     },
     {
       "title": "Music for Coding",
       "kind": "short",
-      "views": 67
-    },
-    {
-      "title": "Deep Focus Ambient",
-      "kind": "short",
-      "views": 61
+      "views": 68,
+      "id": "nSjNhQCMzp0"
     }
   ],
   "recs": [
-    "YPP gate is subscribers (498 / 1,000, public About). Qualified hours CURRENT 878 (Studio meter as of Oct 3, 2026; 08:50 pull). End-screen Subscribe on Deep Work and First Light ~2h.",
-    "Deep Work 1h (2,467) and First Light ~2h (1,087) still carry the catalog. Wake Calm 371 next. Do not lead with Night Calm or the new 8h sleep/spa longs.",
-    "Public tab: 2h ocean-cliff long is 9 views at 1d. 8h work-done still 1 view. Rainforest 31, Spa Bowls 27, Ocean Night 21. HOLD spa/meditation on FOCUS. Keep the daily loop on Deep Work.",
-    "Shorts are 80.0% of 7d views. Morning focus music still leads at 4,200, then Still Tide (1,915) and Deep Channel (1,377). shorts90 CURRENT 492 (Studio Earn meter as of Oct 3, 2026).",
-    "Analytics CURRENT 7d 53.5h / 2,182 views (+67 subs) and 28d 188h / 10,958 views (Studio 2026-10-08). Channel CTR 1.5% on 15.8K impressions; no CTR on rows. Do not log Earn as 0 from a blank Earn tab or Memberships card."
+    "YPP gate is subscribers (499 / 1,000). Qualified hours LAST-KNOWN 878 (Studio meter as of Oct 3; no Earn tab this morning \u2014 not 0). End-screen Subscribe on Deep Work and First Light ~2h.",
+    "Deep Work 1h (2,467) and First Light ~2h (1,088) still carry the catalog. Wake Calm 371 next. Do not lead with Night Calm or the 8h sleep/spa longs.",
+    "8h work-done long is 2 views. Rainforest 33, Spa Bowls 27, Ocean Night 21, ocean-cliff 21. HOLD spa/meditation on FOCUS. Keep the daily loop on Deep Work.",
+    "Shorts are 79.3% of 7d views (1,045 / 1,317). Morning focus music 4,201, Still Tide 1,915, Deep Channel 1,378. shorts90 LAST-KNOWN 492.",
+    "Analytics API 7d 39.4h / 1,317 (Oct 2\u20138) and 28d 168.7h / 10,791 (Sep 11\u2013Oct 8). No row CTR. Do not log Earn as 0 from a blank Earn tab or Memberships card."
   ]
 }
