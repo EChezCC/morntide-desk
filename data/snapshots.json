@@ -1,5 +1,22 @@
 [
  {
+  "day": "2026-10-10",
+  "subs": 500,
+  "earn": 889,
+  "an7": 63.1,
+  "an28": 179.1,
+  "views7": 1136,
+  "views28": 10614,
+  "channel_views": 14977,
+  "video_count": 45,
+  "channel": "@morntidemusic",
+  "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
+  "source": "Studio eyes-on CURRENT HARD 2026-10-10 ~08:59-09:02 ET @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA (Earn/Analytics/shorts90) + Data API CURRENT 08:51 ET (subs/channel_views/video_count)",
+  "notes": "Qualified public watch hours 889 CURRENT (Studio YPP meter as of Oct 5, 2026; eyes-on 2026-10-10). shorts90 CURRENT 540. Analytics 7d CURRENT 63.1h/1136 (-2 subs; Live 47.5%, Shorts 38.9% of views; Oct 3 – 9, 2026); 28d CURRENT 179.1h/10614 (+379 subs; Sep 12 – Oct 9, 2026). Subs 500, video_count 45, channel_views 14977 Data API CURRENT. Channel CTR 1.4% on 18.2K impressions. Do not treat blank Earn / Memberships welcome as 0.",
+  "shorts90": 540,
+  "note": "Earn CURRENT 889 (Studio 2026-10-10, as of Oct 5, 2026); Analytics 7d/28d CURRENT Studio; subs CURRENT 500 Data API; shorts90 CURRENT 540"
+ },
+ {
   "day": "2026-10-09",
   "subs": 499,
   "earn": 884,
