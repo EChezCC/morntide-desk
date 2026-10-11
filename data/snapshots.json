@@ -1,5 +1,22 @@
 [
  {
+  "day": "2026-10-11",
+  "subs": 500,
+  "earn": 889,
+  "an7": 63.1,
+  "an28": 179.1,
+  "views7": 1136,
+  "views28": 10614,
+  "channel_views": 15056,
+  "video_count": 46,
+  "channel": "@morntidemusic",
+  "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
+  "source": "Data API CURRENT HARD 2026-10-11 08:53 ET @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA (subs/channel_views/video_count) — Earn/Analytics/shorts90 LAST-KNOWN from Studio eyes-on 2026-10-10 (Studio UNVERIFIED 2026-10-11: Google verify gate)",
+  "notes": "Qualified public watch hours 889 LAST-KNOWN (Studio YPP meter as of Oct 5, 2026; eyes-on 2026-10-10). shorts90 LAST-KNOWN 540. Analytics 7d LAST-KNOWN 63.1h/1136 (Oct 3 – 9, 2026); 28d LAST-KNOWN 179.1h/10614 (Sep 12 – Oct 9, 2026). Subs 500, video_count 46, channel_views 15056 Data API CURRENT. Do not treat blank Earn / Memberships welcome as 0. Do not mark Earn/Analytics CURRENT without same-morning Studio.",
+  "shorts90": 540,
+  "note": "Earn LAST-KNOWN 889 (Oct 10 Studio as of Oct 5, 2026); Analytics 7d/28d LAST-KNOWN (Studio UNVERIFIED 2026-10-11); subs CURRENT 500 Data API"
+ },
+ {
   "day": "2026-10-10",
   "subs": 500,
   "earn": 889,
