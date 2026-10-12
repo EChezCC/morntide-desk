@@ -1,5 +1,5 @@
 {
-  "day": "2026-10-11",
+  "day": "2026-10-12",
   "channel": "@morntidemusic",
   "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
   "kpis": {
@@ -9,11 +9,11 @@
     "views7": 1136,
     "an28": 179.1,
     "views28": 10614,
-    "channel_views": 15056,
-    "video_count": 46,
+    "channel_views": 15372,
+    "video_count": 47,
     "shorts90": 540
   },
-  "content_source": "Studio UNVERIFIED 2026-10-11 (~08:54-08:56 ET Google 'Verify it's you' gate blocked identity check and all Earn/Analytics reads; proof /workspace/desk-studio-pull/20261011/studio-proof/morntide/REPORT.json). Earn LAST-KNOWN 889 qualified public watch hours (Studio eyes-on 2026-10-10; YPP meter as of Oct 5, 2026). shorts90 LAST-KNOWN 540. Analytics 7d LAST-KNOWN 63.1h / 1136 views (Oct 3 – 9, 2026; eyes-on 2026-10-10). Analytics 28d LAST-KNOWN 179.1h / 10614 views (Sep 12 – Oct 9, 2026; eyes-on 2026-10-10). Data API CURRENT HARD @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA 2026-10-11 08:53 ET: subs 500, video_count 46, channel_views 15056. Content rows = Data API lifetime viewCount (2026-10-11 where in API top8/top5; other rows carried from 2026-10-10). No CTR today (Studio blocked). Do not log Earn 0 from a Memberships card.",
+  "content_source": "Studio UNVERIFIED 2026-10-12 (no same-morning eyes-on; prior LAST-KNOWN from 2026-10-10). Earn LAST-KNOWN 889 qualified public watch hours (Studio eyes-on 2026-10-10; YPP meter as of Oct 5, 2026). shorts90 LAST-KNOWN 540. Analytics 7d LAST-KNOWN 63.1h / 1136 views (Oct 3 \u2013 9, 2026). Analytics 28d LAST-KNOWN 179.1h / 10614 views (Sep 12 \u2013 Oct 9, 2026). Public metrics CURRENT via Social Blade 2026-10-12: subs 500, video_count 47, channel_views 15372. Content rows carried from 2026-10-11 (no Content tab). No CTR. Do not log Earn 0 from a Memberships card.",
   "content": [
     {
       "title": "Deep Work (1h)",
@@ -149,10 +149,10 @@
     }
   ],
   "recs": [
-    "Subs 500 (Data API CURRENT) holds the first Earn tier. Hours LAST-KNOWN 889 / 3,000 (Studio eyes-on 2026-10-10, meter as of Oct 5, 2026; Studio UNVERIFIED 2026-10-11). Full YPP still needs 1,000 subs. End-screen Subscribe on Deep Work and First Light ~2h.",
+    "Subs 500 holds the first Earn tier. Hours LAST-KNOWN 889 / 3,000 (Studio eyes-on 2026-10-10, meter as of Oct 5). Full YPP still needs 1,000 subs. End-screen Subscribe on Deep Work and First Light ~2h.",
     "Deep Work 1h (2,468) and First Light ~2h (1,089) still carry the catalog. Wake Calm 371 next. Do not lead with Night Calm or the 8h sleep/spa longs.",
-    "8h work-done long is 2 views. Rainforest 33, Spa Bowls 27, Ocean Night 21, ocean-cliff 21. HOLD spa/meditation on FOCUS. Keep the daily loop on Deep Work.",
-    "7d view mix (Studio LAST-KNOWN 2026-10-10, Oct 3 – 9, 2026): Live 47.5%, Shorts 38.9%, Videos 13.6%. Morning focus music 4,201, Still Tide 1,916, Deep Channel 1,380. shorts90 LAST-KNOWN 540 (Studio Earn meter as of Oct 5, 2026).",
-    "Studio Analytics LAST-KNOWN (eyes-on 2026-10-10; 2026-10-11 Studio UNVERIFIED): 7d 63.1h / 1,136 views and 28d 179.1h / 10,614 views. Do not log Earn as 0 from a blank Earn tab or Memberships card."
+    "8h work-done long is 2 views. Rainforest 33, Spa Bowls 27, Ocean Night 21. HOLD spa/meditation on FOCUS. Keep the daily loop on Deep Work.",
+    "7d view mix (Studio LAST-KNOWN): Live ~47%, Shorts ~39%. Morning focus music 4,201, Still Tide 1,916, Deep Channel 1,380. shorts90 LAST-KNOWN 540.",
+    "Studio Analytics LAST-KNOWN (eyes-on 2026-10-10): 7d 63.1h / 1,136 views and 28d 179.1h / 10,614 views. Public channel_views 15,372 / 47 videos. Do not log Earn as 0 from a blank Earn tab or Memberships card."
   ]
 }
