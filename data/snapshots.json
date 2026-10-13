@@ -1,20 +1,20 @@
 [
  {
   "day": "2026-10-13",
-  "subs": 500,
-  "earn": 905,
-  "an7": 48.0,
-  "an28": 169.5,
-  "views7": 1062,
-  "views28": 10442,
-  "channel_views": 15372,
-  "video_count": 47,
+  "subs": 499,
+  "earn": 915,
+  "an7": 43.0,
+  "an28": 164.6,
+  "views7": 1015,
+  "views28": 10463,
+  "channel_views": 15471,
+  "video_count": 48,
   "channel": "@morntidemusic",
   "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
-  "source": "Public CURRENT via Social Blade 2026-10-13 (subs 500 / 47 videos / channel_views 15,372 as of Oct 12). Studio UNVERIFIED (no same-morning eyes-on). Earn/Analytics/shorts90 LAST-KNOWN from Studio eyes-on 2026-10-12",
-  "notes": "Qualified public watch hours 905 LAST-KNOWN (Studio YPP meter as of Oct 7, 2026; eyes-on 2026-10-12). shorts90 LAST-KNOWN 578. Analytics 7d LAST-KNOWN 48.0h/1062 (Oct 5 - 11, 2026); 28d LAST-KNOWN 169.5h/10442 (Sep 14 - Oct 11, 2026). Subs 500, video_count 47, channel_views 15372 public CURRENT. Do not treat blank Earn / Memberships welcome as 0. Do not mark Earn/Analytics CURRENT without same-morning Studio.",
-  "shorts90": 578,
-  "note": "Earn LAST-KNOWN 905 (Oct 12 Studio as of Oct 7, 2026); Analytics 7d/28d LAST-KNOWN (Studio UNVERIFIED 2026-10-13); subs CURRENT 500 public"
+  "source": "Studio eyes-on CURRENT HARD 2026-10-13 ~09:10 ET @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA (Earn/Analytics/shorts90) + Data API CURRENT 09:00 ET (subs/channel_views/video_count); replaces the earlier LAST-KNOWN 2026-10-13 write",
+  "notes": "Qualified public watch hours 915 CURRENT (Studio YPP meter as of Oct 8, 2026; eyes-on 2026-10-13). shorts90 CURRENT 580. Analytics 7d CURRENT 43.0h/1015 (+1 subs; Oct 6 - Oct 12, 2026 (Last 7 days)); 28d CURRENT 164.6h/10463 (+377 subs; Sep 15 - Oct 12, 2026 (Last 28 days)). 28d thumbnail CTR 1.2% on 47.8K impressions (channel total, Studio Content tab). Subs 499, video_count 48, channel_views 15471 Data API CURRENT. Do not treat blank Earn / Memberships welcome as 0.",
+  "shorts90": 580,
+  "note": "Earn CURRENT 915 (Studio 2026-10-13, as of Oct 8, 2026); Analytics 7d/28d CURRENT Studio; subs CURRENT 499 Data API; shorts90 CURRENT 580"
  },
  {
   "day": "2026-10-12",
@@ -45,8 +45,8 @@
   "video_count": 46,
   "channel": "@morntidemusic",
   "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
-  "source": "Data API CURRENT HARD 2026-10-11 08:53 ET @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA (subs/channel_views/video_count) \u2014 Earn/Analytics/shorts90 LAST-KNOWN from Studio eyes-on 2026-10-10 (Studio UNVERIFIED 2026-10-11: Google verify gate)",
-  "notes": "Qualified public watch hours 889 LAST-KNOWN (Studio YPP meter as of Oct 5, 2026; eyes-on 2026-10-10). shorts90 LAST-KNOWN 540. Analytics 7d LAST-KNOWN 63.1h/1136 (Oct 3 \u2013 9, 2026); 28d LAST-KNOWN 179.1h/10614 (Sep 12 \u2013 Oct 9, 2026). Subs 500, video_count 46, channel_views 15056 Data API CURRENT. Do not treat blank Earn / Memberships welcome as 0. Do not mark Earn/Analytics CURRENT without same-morning Studio.",
+  "source": "Data API CURRENT HARD 2026-10-11 08:53 ET @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA (subs/channel_views/video_count) — Earn/Analytics/shorts90 LAST-KNOWN from Studio eyes-on 2026-10-10 (Studio UNVERIFIED 2026-10-11: Google verify gate)",
+  "notes": "Qualified public watch hours 889 LAST-KNOWN (Studio YPP meter as of Oct 5, 2026; eyes-on 2026-10-10). shorts90 LAST-KNOWN 540. Analytics 7d LAST-KNOWN 63.1h/1136 (Oct 3 – 9, 2026); 28d LAST-KNOWN 179.1h/10614 (Sep 12 – Oct 9, 2026). Subs 500, video_count 46, channel_views 15056 Data API CURRENT. Do not treat blank Earn / Memberships welcome as 0. Do not mark Earn/Analytics CURRENT without same-morning Studio.",
   "shorts90": 540,
   "note": "Earn LAST-KNOWN 889 (Oct 10 Studio as of Oct 5, 2026); Analytics 7d/28d LAST-KNOWN (Studio UNVERIFIED 2026-10-11); subs CURRENT 500 Data API"
  }
