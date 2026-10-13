@@ -3,17 +3,17 @@
   "channel": "@morntidemusic",
   "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
   "kpis": {
-    "subs": 500,
-    "earn": 905,
-    "an7": 48.0,
-    "views7": 1062,
-    "an28": 169.5,
-    "views28": 10442,
-    "channel_views": 15372,
-    "video_count": 47,
-    "shorts90": 578
+    "subs": 499,
+    "earn": 915,
+    "an7": 43.0,
+    "views7": 1015,
+    "an28": 164.6,
+    "views28": 10463,
+    "channel_views": 15471,
+    "video_count": 48,
+    "shorts90": 580
   },
-  "content_source": "Public CURRENT via Social Blade 2026-10-13 (subs 500 / 47 videos / channel_views 15,372 as of Oct 12 last update). Studio UNVERIFIED (no same-morning eyes-on). Earn LAST-KNOWN 905 (Oct 12 eyes-on, as of Oct 7); shorts90 LAST-KNOWN 578. Analytics 7d LAST-KNOWN 48.0h / 1,062 (Oct 5\u201311); 28d LAST-KNOWN 169.5h / 10,442 (Sep 14\u2013Oct 11). Content carried. No CTR. Do not log Earn 0 from a Memberships card.",
+  "content_source": "Studio eyes-on CURRENT HARD @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA 2026-10-13 ~09:10 ET (identity OK after account switch; proof /workspace/desk-studio-pull/20261013/studio-proof/morntide/REPORT.json + 7 screenshots). Earn CURRENT 915 qualified public watch hours (365d; YPP meter as of Oct 8, 2026). shorts90 CURRENT 580 qualified Shorts views (90d, same meter). Analytics 7d CURRENT 43.0h / 1015 views (+1 subs; Oct 6 - Oct 12, 2026 (Last 7 days)). Analytics 28d CURRENT 164.6h / 10463 views (+377 subs; Sep 15 - Oct 12, 2026 (Last 28 days)). 28d thumbnail CTR 1.2% on 47.8K impressions (channel total, Studio Content tab). Data API CURRENT 2026-10-13 09:00 ET: subs 499, video_count 48, channel_views 15471. Content rows = Data API lifetime viewCount (2026-10-13 where in API top8/top5; other rows carried). Per-video watch hours/CTR MISSING on Studio screen, not invented. Replaces the earlier LAST-KNOWN 2026-10-13 write. Do not log Earn 0 from a Memberships card.",
   "content": [
     {
       "title": "Deep Work (1h)",
@@ -108,7 +108,7 @@
     {
       "title": "First Light on the Water",
       "kind": "short",
-      "views": 703,
+      "views": 704,
       "id": "6dkl1uzGgjA"
     },
     {
@@ -149,10 +149,10 @@
     }
   ],
   "recs": [
-    "Subs 500 / 500 holds the first Earn tier. Hours LAST-KNOWN 905 / 3,000 (Studio eyes-on 2026-10-12, meter as of Oct 7, 2026). Full YPP still needs 1,000 subs. End-screen Subscribe on Deep Work and First Light ~2h.",
+    "Subs 499 / 500, one short of the first Earn tier again (Data API and Studio both show 499). Hours CURRENT 915 / 3,000 (Studio eyes-on 2026-10-13, meter as of Oct 8, 2026). Full YPP still needs 1,000 subs. End-screen Subscribe on Deep Work and First Light ~2h.",
     "Deep Work 1h (2,468) and First Light ~2h (1,089) still carry the catalog. Wake Calm 371 next. Do not lead with Night Calm or the 8h sleep/spa longs.",
     "8h work-done long is 2 views. Rainforest 33, Spa Bowls 27, Ocean Night 21. HOLD spa/meditation on FOCUS. Keep the daily loop on Deep Work.",
-    "Shorts lead 28d views (Studio, Sep 14 - Oct 11, 2026): Morning calm 3,679, Deep work simplified 1,916, Deep Channel 1,380. Lifetime API: Morning focus music 4,201, Still Tide 1,916, Deep Channel 1,380. shorts90 LAST-KNOWN 578 (Studio Earn meter as of Oct 7, 2026).",
-    "Studio Analytics LAST-KNOWN 7d 48.0h / 1,062 views (+2 subs) and 28d 169.5h / 10,442 views (+378 subs). 28d thumbnail CTR 1.2% on 47,214 impressions (channel total, Studio Advanced mode from Oct 12). Do not log Earn as 0 from a blank Earn tab or Memberships card."
+    "Shorts lead 28d views (Studio, Sep 15 - Oct 12, 2026 (Last 28 days)): Morning calm 3,640, Deep work simplified 1,916, Deep Channel 1,380. Lifetime API: Morning focus music 4,201, Still Tide 1,916, Deep Channel 1,380. shorts90 CURRENT 580 (Studio Earn meter as of Oct 8, 2026).",
+    "Studio Analytics CURRENT 7d 43.0h / 1,015 views (+1 subs) and 28d 164.6h / 10,463 views (+377 subs). 28d thumbnail CTR 1.2% on 47.8K impressions (channel total, Studio Content tab). Do not log Earn as 0 from a blank Earn tab or Memberships card."
   ]
 }
