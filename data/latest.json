@@ -4,16 +4,16 @@
   "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
   "kpis": {
     "subs": 499,
-    "earn": 926,
-    "an7": 38.9,
-    "views7": 863,
-    "an28": 162.6,
-    "views28": 10478,
-    "channel_views": 15559,
+    "earn": 930,
+    "an7": 33.5,
+    "views7": 937,
+    "an28": 168.4,
+    "views28": 10656,
+    "channel_views": 15712,
     "video_count": 51,
-    "shorts90": 582
+    "shorts90": 587
   },
-  "content_source": "Public CURRENT 2026-10-15 ~09:10 ET (YouTube channel scrape + Social Blade): subs 499, video_count 51, channel_views 15559. Studio UNVERIFIED this morning (no eyes-on pull in session). Earn LAST-KNOWN 926 (as of Oct 9, 2026 from 2026-10-14 eyes-on). shorts90 LAST-KNOWN 582. Analytics LAST-KNOWN 7d 38.9h/863 (Oct 7\u201313); 28d 162.6h/10,478 (Sep 16\u2013Oct 13). Content views updated from public scrape where visible; others carried. Never invent CTR/hours. Do not log Earn 0 from Memberships.",
+  "content_source": "Studio eyes-on CURRENT HARD @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA 2026-10-15 2026-10-15 ~09:00-09:07 EDT (identity OK; proof /workspace/desk-studio-pull/20261015/studio-proof/morntide/REPORT.json + 5 screenshots). Earn CURRENT 930 qualified public watch hours (365d; YPP meter as of Oct 10, 2026). shorts90 CURRENT 587 qualified Shorts views (90d, same meter). Analytics 7d CURRENT 33.5h / 937 views (+1 subs; Oct 8 - Oct 14, 2026). Analytics 28d CURRENT 168.4h / 10656 views (+377 subs; Sep 17 - Oct 14, 2026). 28d thumbnail CTR 1.2% on 49.9K impressions (channel total, Studio). Data API CURRENT 2026-10-15 ~08:59 ET: subs 499, video_count 51, channel_views 15712. Content rows = Data API lifetime viewCount (2026-10-15 where in API top8/top5; other rows carried). Per-video watch hours/CTR MISSING on Studio screen, not invented. Supersedes same-day public-only LAST-KNOWN stub. Do not log Earn 0 from a Memberships card.",
   "content": [
     {
       "title": "Deep Work (1h)",
@@ -42,7 +42,7 @@
     {
       "title": "Still Tide (1h)",
       "kind": "long",
-      "views": 125,
+      "views": 126,
       "id": "ZiRfM8u5-oA"
     },
     {
@@ -149,10 +149,10 @@
     }
   ],
   "recs": [
-    "Subs 499 / 500 (public CURRENT). Hours LAST-KNOWN 926 / 3,000 (Studio as of Oct 9, 2026). Full YPP still needs 1,000 subs. End-screen Subscribe on Deep Work and First Light ~2h.",
-    "Deep Work 1h (2.4K) and First Light ~2h (1K) still carry the catalog. Wake Calm 371 next. New Autumn Lofi 2 views. Do not lead with Night Calm or the 8h sleep/spa longs.",
-    "8h work-done long is 2 views. Spa Bowls 29, Ocean Night 24, Deep Work Ambience 47. HOLD spa/meditation on FOCUS. Keep the daily loop on Deep Work.",
-    "Shorts: Morning focus music 4.2K, Still Tide 1.9K, Deep Channel 1.3K. shorts90 LAST-KNOWN 582 (Studio Earn meter as of Oct 9).",
-    "Analytics LAST-KNOWN 7d 38.9h / 863 views and 28d 162.6h / 10,478 views. 28d thumbnail CTR LAST-KNOWN 1.2% on 48.4K. Videos now 51. Do not log Earn as 0 from a blank Earn tab or Memberships card."
+    "Subs 499 / 500, one short of the first Earn tier (Data API and Studio both show 499). Hours CURRENT 930 / 3,000 (Studio eyes-on 2026-10-15, meter as of Oct 10, 2026). Full YPP still needs 1,000 subs. End-screen Subscribe on Deep Work and First Light ~2h.",
+    "Deep Work 1h (2,468) and First Light ~2h (1,089) still carry the catalog. Wake Calm 371 next. Can't Concentrate radio (198) leads the last 7 days in Studio. Do not lead with Night Calm or the 8h sleep/spa longs.",
+    "8h work-done long is 2 views. Rainforest 33, Spa Bowls 29, Ocean Night 24. HOLD spa/meditation on FOCUS. Keep the daily loop on Deep Work.",
+    "Shorts lead 28d views (Studio, Sep 17 - Oct 14, 2026): Morning calm 3,640, Deep work simplified 1,916, Deep Channel 1,380. Lifetime API: Morning focus music 4,201, Still Tide 1,916, Deep Channel 1,380. shorts90 CURRENT 587 (Studio Earn meter as of Oct 10, 2026).",
+    "Studio Analytics CURRENT 7d 33.5h / 937 views (+1 subs; views -57%, watch time -37%) and 28d 168.4h / 10,656 views (+377 subs). 28d thumbnail CTR 1.2% on 49.9K impressions (channel total, Studio). Do not log Earn as 0 from a blank Earn tab or Memberships card."
   ]
 }
