@@ -1,20 +1,20 @@
 [
  {
   "day": "2026-10-16",
-  "subs": 499,
+  "subs": 501,
   "earn": 930,
   "an7": 33.5,
-  "an28": 168.4,
+  "an28": 167.7,
   "views7": 937,
-  "views28": 10656,
+  "views28": 10807,
   "channel_views": 15741,
   "video_count": 52,
   "channel": "@morntidemusic",
   "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
-  "source": "Public CURRENT 2026-10-16 ~09:12 ET Social Blade (subs/channel_views/video_count) + Studio UNVERIFIED LAST-KNOWN Earn/Analytics/shorts90 from 2026-10-15 eyes-on",
-  "notes": "Qualified public watch hours 930 LAST-KNOWN (Studio YPP meter as of Oct 10, 2026 from 2026-10-15 eyes-on). shorts90 LAST-KNOWN 587. Analytics 7d LAST-KNOWN 33.5h/937; 28d LAST-KNOWN 168.4h/10656. Subs 499, video_count 52, channel_views 15741 public CURRENT. Studio UNVERIFIED this morning. Do not treat blank Earn / Memberships welcome as 0.",
-  "shorts90": 587,
-  "note": "Earn LAST-KNOWN 930 (as of Oct 10, 2026); Analytics LAST-KNOWN; subs CURRENT 499 public; shorts90 LAST-KNOWN 587; Studio UNVERIFIED"
+  "source": "Studio eyes-on HARD 2026-10-16 2026-10-16 ~09:00-09:03 EDT @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA (Earn/28d/shorts90 CURRENT; 7d MISSING, LAST-KNOWN 2026-10-15) + Data API CURRENT ~08:57 ET (subs/channel_views/video_count)",
+  "notes": "Qualified public watch hours 930 CURRENT (Studio YPP meter as of Oct 11, 2026; eyes-on 2026-10-16). shorts90 CURRENT 590. Analytics 28d CURRENT 167.7h/10807 (+377 (+209%) subs; Sep 18 - Oct 15, 2026). Analytics 7d LAST-KNOWN 33.5h/937 from 2026-10-15 (Studio 7d blocked today; API 16.3h/625 UNVERIFIED). Channel-wide impressions/CTR not read today (Studio 'Verify it's you' dialog); LAST-KNOWN 28d CTR 1.2% on 49.9K impressions (Studio 2026-10-15). Subs 501, video_count 52, channel_views 15741 Data API CURRENT. Do not treat blank Earn / Memberships welcome as 0.",
+  "shorts90": 590,
+  "note": "Earn CURRENT 930 (Studio 2026-10-16, as of Oct 11, 2026); 28d CURRENT Studio; 7d LAST-KNOWN 2026-10-15; subs CURRENT 501 Data API; shorts90 CURRENT 590"
  },
  {
   "day": "2026-10-15",
