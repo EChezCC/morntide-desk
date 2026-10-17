@@ -1,5 +1,5 @@
 {
-  "day": "2026-10-16",
+  "day": "2026-10-17",
   "channel": "@morntidemusic",
   "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
   "kpis": {
@@ -9,28 +9,28 @@
     "views7": 937,
     "an28": 167.7,
     "views28": 10807,
-    "channel_views": 15741,
-    "video_count": 52,
+    "channel_views": 16038,
+    "video_count": 53,
     "shorts90": 590
   },
-  "content_source": "Studio eyes-on HARD @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA 2026-10-16 2026-10-16 ~09:00-09:03 EDT (identity OK; proof /workspace/desk-studio-pull/20261016/studio-proof/morntide/REPORT.json + screenshots; status PARTIAL). Earn CURRENT 930 qualified public watch hours (365d; YPP meter as of Oct 11, 2026). shorts90 CURRENT 590 (90d, same meter). Analytics 28d CURRENT 167.7h / 10,807 views (+377 (+209%) subs; Sep 18 - Oct 15, 2026). Analytics 7d Studio MISSING today (blocked by 'Verify it's you' dialog): kpis an7/views7 are LAST-KNOWN 33.5h / 937 from 2026-10-15 Studio eyes-on; Analytics API 2026-10-09..10-15 shows 16.3h / 625 views (UNVERIFIED, API runs lower than Studio). Channel-wide impressions/CTR not read today (Studio 'Verify it's you' dialog); LAST-KNOWN 28d CTR 1.2% on 49.9K impressions (Studio 2026-10-15). Data API CURRENT 2026-10-16 ~08:57 ET: subs 501, video_count 52, channel_views 15741. Content rows = Data API lifetime viewCount (2026-10-16 where in API top8/top5; other rows carried). Per-video watch hours/CTR not invented. Supersedes same-day Social Blade LAST-KNOWN stub. Do not log Earn 0 from a Memberships card.",
+  "content_source": "Data API CURRENT 2026-10-17 ~09:09 ET via vidIQ: subs 501, video_count 53, channel_views 16038. Studio UNVERIFIED (no eyes-on this morning). Earn LAST-KNOWN 930 qualified public watch hours (365d; YPP meter as of Oct 11, 2026 from 2026-10-16 Studio). shorts90 LAST-KNOWN 590 (90d). Analytics 7d LAST-KNOWN 33.5h / 937; 28d LAST-KNOWN 167.7h / 10,807 (Studio 2026-10-16; Analytics API 2026-10-10..16 12.0h / 514 views UNVERIFIED lower). Content rows = Data API lifetime viewCount updated where changed; per-video hours/CTR not invented. Do not log Earn 0 from a Memberships card.",
   "content": [
     {
       "title": "Deep Work (1h)",
       "kind": "long",
-      "views": 2468,
+      "views": 2469,
       "id": "MPDy0P-CVc0"
     },
     {
       "title": "First Light (~2h)",
       "kind": "long",
-      "views": 1089,
+      "views": 1090,
       "id": "L11Hc6Jc1SA"
     },
     {
       "title": "Wake Calm",
       "kind": "long",
-      "views": 371,
+      "views": 372,
       "id": "uPqitC0mm4g"
     },
     {
@@ -66,13 +66,13 @@
     {
       "title": "Spa Bowls (8h)",
       "kind": "long",
-      "views": 29,
+      "views": 30,
       "id": "U78G7IYZ51o"
     },
     {
       "title": "Ocean Night (8h)",
       "kind": "long",
-      "views": 24,
+      "views": 25,
       "id": "-CZW0rGHg5o"
     },
     {
@@ -108,7 +108,7 @@
     {
       "title": "First Light on the Water",
       "kind": "short",
-      "views": 711,
+      "views": 712,
       "id": "6dkl1uzGgjA"
     },
     {
@@ -149,10 +149,10 @@
     }
   ],
   "recs": [
-    "Subs 501, past the 500-sub bar for the first Earn tier (which also needs 3,000 hours) (Data API and Studio both show 501). Hours CURRENT 930 / 3,000 (Studio eyes-on 2026-10-16, meter as of Oct 11, 2026). Full YPP still needs 1,000 subs and 4,000 hours. End-screen Subscribe on Deep Work and First Light ~2h.",
-    "Deep Work 1h (2,468) and First Light ~2h (1,089) still carry the catalog. Wake Calm 371 next. Do not lead with Night Calm or the 8h sleep/spa longs.",
-    "8h work-done long is 2 views. Rainforest 33, Spa Bowls 29, Ocean Night 24. HOLD spa/meditation on FOCUS. Keep the daily loop on Deep Work.",
-    "Shorts lead 28d views (Studio, Sep 18 - Oct 15, 2026): Morning calm 3,640, Deep work simplified 1,916, Deep Channel 1,380. Lifetime API: Morning focus music 4,201, Still Tide 1,916, Deep Channel 1,380. shorts90 CURRENT 590 (Studio meter as of Oct 11, 2026).",
-    "Studio Analytics 28d CURRENT 167.7h / 10,807 views (-81% watch time vs prior 28d). 7d Studio MISSING today; LAST-KNOWN 33.5h / 937 (2026-10-15). Channel-wide impressions/CTR not read today (Studio 'Verify it's you' dialog); LAST-KNOWN 28d CTR 1.2% on 49.9K impressions (Studio 2026-10-15). Do not log Earn as 0 from a blank Earn tab or Memberships card."
+    "Subs 501, past the 500-sub bar for the first Earn tier (which also needs 3,000 hours). Hours LAST-KNOWN 930 / 3,000 (Studio eyes-on 2026-10-16, meter as of Oct 11, 2026). Full YPP still needs 1,000 subs and 4,000 hours. End-screen Subscribe on Deep Work and First Light ~2h.",
+    "Deep Work 1h (2,469) and First Light ~2h (1,090) still carry the catalog. Wake Calm 372 next. Do not lead with Night Calm or the 8h sleep/spa longs.",
+    "8h work-done long is 2 views. Rainforest 33, Spa Bowls 30, Ocean Night 25. HOLD spa/meditation on FOCUS. Keep the daily loop on Deep Work.",
+    "Shorts lead lifetime: Morning focus music 4,201, Still Tide 1,916, Deep Channel 1,380. shorts90 LAST-KNOWN 590 (Studio meter as of Oct 11, 2026).",
+    "Studio Analytics LAST-KNOWN 28d 167.7h / 10,807 views (2026-10-16). 7d LAST-KNOWN 33.5h / 937. Channel-wide impressions/CTR not read today. Do not log Earn as 0 from a blank Earn tab or Memberships card."
   ]
 }

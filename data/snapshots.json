@@ -1,5 +1,22 @@
 [
  {
+  "day": "2026-10-17",
+  "subs": 501,
+  "earn": 930,
+  "an7": 33.5,
+  "an28": 167.7,
+  "views7": 937,
+  "views28": 10807,
+  "channel_views": 16038,
+  "video_count": 53,
+  "channel": "@morntidemusic",
+  "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
+  "source": "Data API CURRENT 2026-10-17 ~09:09 ET via vidIQ (subs/channel_views/video_count) + Studio LAST-KNOWN from 2026-10-16 (Earn/Analytics/shorts90)",
+  "notes": "Qualified public watch hours 930 LAST-KNOWN (Studio YPP meter as of Oct 11, 2026; eyes-on 2026-10-16). shorts90 LAST-KNOWN 590. Analytics 7d LAST-KNOWN 33.5h/937; 28d LAST-KNOWN 167.7h/10807 (Studio 2026-10-16). Subs 501, video_count 53, channel_views 16038 Data API CURRENT. Studio UNVERIFIED this morning. Do not treat blank Earn / Memberships welcome as 0.",
+  "shorts90": 590,
+  "note": "Earn LAST-KNOWN 930 (Studio 2026-10-16, as of Oct 11, 2026); Analytics LAST-KNOWN; subs CURRENT 501 Data API; shorts90 LAST-KNOWN 590"
+ },
+ {
   "day": "2026-10-16",
   "subs": 501,
   "earn": 930,
@@ -66,22 +83,5 @@
   "notes": "Qualified public watch hours 915 CURRENT (Studio YPP meter as of Oct 8, 2026; eyes-on 2026-10-13). shorts90 CURRENT 580. Analytics 7d CURRENT 43.0h/1015; 28d CURRENT 164.6h/10463. Subs 499, video_count 48, channel_views 15471 Data API CURRENT. Do not treat blank Earn / Memberships welcome as 0.",
   "shorts90": 580,
   "note": "Earn CURRENT 915 (Studio 2026-10-13, as of Oct 8, 2026); Analytics 7d/28d CURRENT Studio; subs CURRENT 499 Data API; shorts90 CURRENT 580"
- },
- {
-  "day": "2026-10-12",
-  "subs": 500,
-  "earn": 905,
-  "an7": 48.0,
-  "an28": 169.5,
-  "views7": 1062,
-  "views28": 10442,
-  "channel_views": 15372,
-  "video_count": 47,
-  "channel": "@morntidemusic",
-  "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
-  "source": "Studio eyes-on CURRENT HARD 2026-10-12 ~09:07-09:11 ET @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA + Data API CURRENT 09:06 ET",
-  "notes": "Qualified public watch hours 905 CURRENT (Studio YPP meter as of Oct 7, 2026). shorts90 CURRENT 578. Analytics 7d CURRENT 48.0h/1062; 28d CURRENT 169.5h/10442. Subs 500, video_count 47, channel_views 15372 Data API CURRENT. Do not treat blank Earn / Memberships welcome as 0.",
-  "shorts90": 578,
-  "note": "Earn CURRENT 905 (Studio 2026-10-12, as of Oct 7, 2026); Analytics 7d/28d CURRENT Studio; subs CURRENT 500 Data API; shorts90 CURRENT 578"
  }
 ]
