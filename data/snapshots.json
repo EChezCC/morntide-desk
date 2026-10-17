@@ -2,19 +2,20 @@
  {
   "day": "2026-10-17",
   "subs": 501,
-  "earn": 930,
-  "an7": 33.5,
-  "an28": 167.7,
-  "views7": 937,
-  "views28": 10807,
+  "subs_api_rounded": 501,
+  "earn": 931,
+  "an7": 26.0,
+  "an28": 169.6,
+  "views7": 842,
+  "views28": 10366,
   "channel_views": 16038,
   "video_count": 53,
   "channel": "@morntidemusic",
   "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
-  "source": "Data API CURRENT 2026-10-17 ~09:09 ET via vidIQ (subs/channel_views/video_count) + Studio LAST-KNOWN from 2026-10-16 (Earn/Analytics/shorts90)",
-  "notes": "Qualified public watch hours 930 LAST-KNOWN (Studio YPP meter as of Oct 11, 2026; eyes-on 2026-10-16). shorts90 LAST-KNOWN 590. Analytics 7d LAST-KNOWN 33.5h/937; 28d LAST-KNOWN 167.7h/10807 (Studio 2026-10-16). Subs 501, video_count 53, channel_views 16038 Data API CURRENT. Studio UNVERIFIED this morning. Do not treat blank Earn / Memberships welcome as 0.",
+  "source": "Studio eyes-on HARD 2026-10-17 2026-10-17 ~09:03-09:06 EDT @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA (subs exact/Earn/7d/28d/shorts90 CURRENT) + Data API CURRENT ~09:00 ET (subs_api_rounded/channel_views/video_count)",
+  "notes": "Subs 501 CURRENT Studio exact (API rounded 501). Qualified public watch hours 931 CURRENT (Studio YPP meter as of Oct 12, 2026; eyes-on 2026-10-17). shorts90 CURRENT 590. Analytics 7d CURRENT 26.0h/842 (Oct 10 - 16, 2026); 28d CURRENT 169.6h/10366 (+362 subs; Sep 19 - Oct 16, 2026). API 7d 22.6h/815, 28d 163.1h/10639 UNVERIFIED. Channel-wide CTR MISSING today; 28d Videos 525 views, 10.3K impr (-23%), 2.2% CTR; Live 1.9K views, 23.5K impr, 1.3% CTR, AVD 10:36 (Studio 2026-10-17). video_count 53, channel_views 16038 Data API CURRENT. Supersedes same-day Studio-UNVERIFIED stub. Do not treat blank Earn / Memberships welcome as 0.",
   "shorts90": 590,
-  "note": "Earn LAST-KNOWN 930 (Studio 2026-10-16, as of Oct 11, 2026); Analytics LAST-KNOWN; subs CURRENT 501 Data API; shorts90 LAST-KNOWN 590"
+  "note": "Earn CURRENT 931 (Studio 2026-10-17, as of Oct 12, 2026); 7d+28d CURRENT Studio; subs CURRENT 501 Studio exact (API rounded 501); shorts90 CURRENT 590"
  },
  {
   "day": "2026-10-16",
