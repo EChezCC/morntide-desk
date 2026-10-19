@@ -1,5 +1,23 @@
 [
  {
+  "day": "2026-10-19",
+  "subs": 499,
+  "subs_api_rounded": 499,
+  "earn": 931,
+  "an7": 24.3,
+  "an28": 164.2,
+  "views7": 811,
+  "views28": 10067,
+  "channel_views": 16182,
+  "video_count": 53,
+  "channel": "@morntidemusic",
+  "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
+  "source": "Studio PARTIAL 2026-10-19 2026-10-19 ~08:54 EDT @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA (verify modal; URL channel id match; subs exact + 28d hours CURRENT dashboard; Earn/shorts90/7d/views28 LAST-KNOWN Studio 2026-10-18) + Data API CURRENT ~08:51 ET",
+  "notes": "Subs 499 CURRENT Studio exact (dashboard; API 499). 28d 164.2h CURRENT (dashboard, views 9.8K (rounded); +317 subs). Earn 931 LAST-KNOWN (Studio 2026-10-18, as of Oct 13, 2026). shorts90 590 LAST-KNOWN. 7d 24.3h/811 LAST-KNOWN (Studio 2026-10-18); API 7d 21.3h/748, 28d 163.7h/10004 UNVERIFIED. views28 10067 LAST-KNOWN. CTR MISSING. Blocker: Google 'Verify it's you' modal in Studio.",
+  "shorts90": 590,
+  "note": "Subs CURRENT 499 Studio exact; 28d hours CURRENT 164.2 Studio dashboard; Earn LAST-KNOWN 931 (Studio 2026-10-18, as of Oct 13, 2026); 7d, views28, shorts90 LAST-KNOWN Studio 2026-10-18"
+ },
+ {
   "day": "2026-10-18",
   "subs": 499,
   "subs_api_rounded": 499,
