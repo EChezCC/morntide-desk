@@ -3,24 +3,23 @@
   "channel": "@morntidemusic",
   "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
   "kpis": {
-    "subs": null,
-    "earn": 938,
-    "an7": 29.0,
-    "views7": 1043,
-    "an28": 165.1,
-    "views28": 9218,
+    "subs": 501,
+    "earn": 946,
+    "an7": 52.9,
+    "views7": 3046,
+    "an28": 184.4,
+    "views28": 10350,
     "channel_views": 16774,
     "video_count": 56,
     "shorts90": 592,
-    "subs_api_rounded": 501,
-    "subs_error": "ERROR: Studio exact subs MISSING 2026-10-22 (Studio pull UNVERIFIED: no permission on Chezerecta Google login for Morntide URL); subs left null per rule, rounded Data API/vidIQ 501 stored as subs_api_rounded only"
+    "subs_api_rounded": 501
   },
-  "content_source": "Studio UNVERIFIED 2026-10-22 ~9:05 AM ET: Not reached (no permission on Chezerecta Google login for Morntide URL). ERROR: Studio exact subs MISSING 2026-10-22; subs left null. Data API/vidIQ CURRENT ~09:10 ET: video_count 56, channel_views 16,774, subs_api_rounded 501. Earn LAST-KNOWN 938 qualified public watch hours (Studio 2026-10-20; 365d meter as of Oct 15, 2026; target 3,000). shorts90 LAST-KNOWN 592. Analytics 7d LAST-KNOWN 29.0h / 1,043 views (Studio 2026-10-20, Oct 13 - 19, 2026). Analytics 28d LAST-KNOWN 165.1h / 9,218 views (Studio 2026-10-20, Sep 22 - Oct 19, 2026). CTR LAST-KNOWN 1.2% on 54.6K (Studio 2026-10-20). Content rows carried from prior (Data API lifetime; no new Content tab). Per-video hours/CTR not invented. Do not log Earn 0 from a Memberships card or blank Earn tab.",
+  "content_source": "Studio eyes-on OK 2026-10-22 2026-10-22 ~8:56 AM ET: identity After Switch account: avatar menu 'Morntide Music / @Morntidemusic'; URL studio.youtube.com/channel/UCjIlIYsKiIyUOVsHpItKOWA (first load 'Oops, no permission' on Chezerecta, resolved by switch; switched back to DJ Chezerecta after); proof /workspace/desk-studio-pull/20261022/studio-proof/morntide/REPORT.json (KEY_identity.png, KEY_earn.png, KEY_analytics_7d.png, KEY_analytics_28d.png, KEY_content_28d.png). Subs CURRENT 501 = Studio exact (Earn tab); Data API rounded 501 stored as subs_api_rounded. Earn CURRENT 946 qualified public watch hours (Studio Earn, 365d meter as of Oct 17, 2026; targets 3,000 / 4,000). shorts90 CURRENT 592 (Studio Earn). Analytics 7d CURRENT 52.9h / 3,046 views / +2 subs (Studio Oct 15 – 21, 2026). Analytics 28d CURRENT 184.4h / 10,350 views / +271 subs (Studio Sep 24 – Oct 21, 2026). CTR CURRENT 1.2% on 54.1K impressions, avg view 7:45 (Studio Content tab 28d). Analytics API 2026-10-14..2026-10-20 28.6h / 1001 views and 2026-09-23..2026-10-20 160.3h / 8492 views UNVERIFIED (API runs lower than Studio). Data API CURRENT 2026-10-22 ~08:52 ET: video_count 56, channel_views 16,774. Content rows = Data API lifetime viewCount (higher kept; other rows carried). Per-video hours/CTR not invented. Supersedes an earlier 2026-10-22 09:11 ET write that marked Studio UNVERIFIED; the 08:56 ET Studio pull passed identity via Switch account. Do not log Earn 0 from a Memberships card or blank Earn tab.",
   "content": [
     {
       "title": "Deep Work (1h)",
       "kind": "long",
-      "views": 2840,
+      "views": 3865,
       "id": "MPDy0P-CVc0"
     },
     {
@@ -32,7 +31,7 @@
     {
       "title": "Wake Calm",
       "kind": "long",
-      "views": 373,
+      "views": 374,
       "id": "uPqitC0mm4g"
     },
     {
@@ -110,7 +109,7 @@
     {
       "title": "First Light on the Water",
       "kind": "short",
-      "views": 731,
+      "views": 732,
       "id": "6dkl1uzGgjA"
     },
     {
@@ -151,10 +150,10 @@
     }
   ],
   "recs": [
-    "Studio exact subs MISSING today (Studio blocked: no permission on the Chezerecta Google login); last Studio exact was 499 (2026-10-20); Data API/vidIQ rounded shows 501. 500+ subs plus 3,000 hours opens the first Earn tier. Hours LAST-KNOWN 938 / 3,000 (Studio 2026-10-20, meter as of Oct 15, 2026). Full YPP still needs 1,000 subs and 4,000 hours. End-screen Subscribe on Deep Work and First Light ~2h.",
-    "Deep Work 1h (2,840) and First Light ~2h (1,093) still carry the catalog. Wake Calm 373 next. Do not lead with Night Calm or the 8h sleep/spa longs.",
+    "Subs 501 (Studio exact, 2026-10-22) clears the 500-sub bar for the first Earn tier; that tier still needs 3,000 hours. Hours 946 / 3,000 (Studio Earn 2026-10-22, meter as of Oct 17, 2026). Full YPP still needs 1,000 subs and 4,000 hours. End-screen Subscribe on Deep Work and First Light ~2h.",
+    "Deep Work 1h (3,865) and First Light ~2h (1,093) still carry the catalog. Wake Calm 374 next. Do not lead with Night Calm or the 8h sleep/spa longs.",
     "8h work-done long is 2 views. Rainforest 33, Spa Bowls 30, Ocean Night 25. HOLD spa/meditation on FOCUS. Keep the daily loop on Deep Work.",
-    "LAST-KNOWN top 28d (Studio Overview 2026-10-20, Sep 22 - Oct 19, 2026): Stay present with this morning calm 3,639, Enter the Deep Channel 748, First Light on the Water 724. Lifetime API carried: Morning focus music 4,201, Still Tide 1,916, Deep Channel 1,380. shorts90 LAST-KNOWN 592 (meter as of Oct 15, 2026).",
-    "Studio 28d LAST-KNOWN 165.1h / 9,218 views; 7d LAST-KNOWN 29.0h / 1,043 (Studio 2026-10-20). CTR LAST-KNOWN 1.2% on 54.6K. Channel views CURRENT 16,774. Blocker: Studio needs the Morntide Google account switch (no permission on the Chezerecta login). Do not log Earn as 0 from a blank Earn tab or Memberships card."
+    "Top 28d (Studio Overview 2026-10-22, Sep 24 – Oct 21, 2026): Stay present with this morning calm (Short) 3,639, Deep Work Session | 1 Hour 2,446, First Light on the Water 732, First Light Calm Focus Loop 331, Deep work, simplified (Short) 230. Lifetime API: Morning focus music 4,201, Still Tide 1,916, Deep Channel 1,380. shorts90 592 (meter as of Oct 17, 2026).",
+    "Studio 28d CURRENT 184.4h / 10,350 views / +271 subs; 7d CURRENT 52.9h / 3,046 (Oct 15 – 21, 2026). CTR 1.2% on 54.1K (28d). API 7d 28.6h / 28d 160.3h UNVERIFIED. No Studio blocker today (Morntide reached via Switch account). Do not log Earn as 0 from a blank Earn tab or Memberships card."
   ]
 }
