@@ -1,5 +1,26 @@
 [
  {
+  "day": "2026-10-22",
+  "subs": null,
+  "subs_api_rounded": 501,
+  "subs_error": "ERROR: Studio exact subs MISSING 2026-10-22 (Studio pull UNVERIFIED: no permission on Chezerecta Google login for Morntide URL); subs left null per rule, rounded Data API/vidIQ 501 stored as subs_api_rounded only",
+  "earn": 938,
+  "an7": 29.0,
+  "an28": 165.1,
+  "views7": 1043,
+  "views28": 9218,
+  "channel_views": 16774,
+  "video_count": 56,
+  "channel": "@morntidemusic",
+  "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
+  "source": "Studio UNVERIFIED 2026-10-22 ~9:05 AM ET (no permission on Chezerecta login; Studio figures LAST-KNOWN Studio 2026-10-20) + Data API/vidIQ CURRENT ~09:10 ET @morntidemusic / UCjIlIYsKiIyUOVsHpItKOWA",
+  "notes": "Subs null: Studio exact MISSING (API/vidIQ rounded 501 stored separately, not used). Earn 938 LAST-KNOWN (Studio 2026-10-20, as of Oct 15, 2026). shorts90 592 LAST-KNOWN. 7d 29.0h/1043 and 28d 165.1h/9218 LAST-KNOWN (Studio 2026-10-20). CTR 1.2% on 54.6K LAST-KNOWN. Channel views CURRENT 16,774. Blocker: Morntide Studio no permission on Chezerecta Google login.",
+  "shorts90": 592,
+  "ctr28": "1.2%",
+  "impr28": "54.6K",
+  "note": "Studio UNVERIFIED 2026-10-22; subs MISSING (null); Earn 938, 7d, 28d, CTR, shorts90 LAST-KNOWN Studio 2026-10-20; Data API/vidIQ CURRENT"
+ },
+ {
   "day": "2026-10-21",
   "subs": null,
   "subs_api_rounded": 500,
