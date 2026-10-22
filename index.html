@@ -47,6 +47,17 @@ th{color:var(--muted);font-size:11px;letter-spacing:.08em;text-transform:upperca
 <div class="row"><span>Qualified hours</span><b id="ypp-hours-lbl">—</b></div><div class="bar-wrap"><div class="bar" id="bar-hours"></div></div>
 <div class="row" style="margin-top:14px"><span>Subscribers</span><b id="ypp-subs-lbl">—</b></div><div class="bar-wrap"><div class="bar" id="bar-subs"></div></div>
 </div>
+<div class="card"><h2>YPP tracker (@morntidemusic)</h2>
+<div class="row"><span>Subscribers (public)</span><b id="tr-subs">—</b></div><div class="bar-wrap"><div class="bar" id="tr-subs-bar"></div></div>
+<div class="row" style="margin-top:14px"><span>Public watch hours (Studio Earn)</span><b id="tr-hours">—</b></div><div class="bar-wrap"><div class="bar" id="tr-hours-bar"></div></div>
+<p class="foot" id="tr-src"></p></div>
+<div class="card"><h2>Uploads</h2>
+<table><thead><tr><th>Title</th><th>Length</th><th>Views</th></tr></thead><tbody id="tr-up"></tbody></table></div>
+<div class="card"><h2>Live streams &amp; Focus Radio</h2>
+<table><thead><tr><th>Title</th><th>Status</th><th>Views</th></tr></thead><tbody id="tr-live"></tbody></table></div>
+<div class="card"><h2>Releases (DistroKid)</h2>
+<table><thead><tr><th>Release</th><th>Date</th><th>Status</th><th>Stores</th></tr></thead><tbody id="tr-rel"></tbody></table>
+<p class="foot" id="tr-rel-src"></p></div>
 <div class="card"><h2>Do this next</h2><div id="recs"></div></div>
 <div class="card"><h2>Positioning</h2><p class="insight" id="i1"></p><p class="insight" id="i2"></p><p class="insight" id="i3"></p></div>
 <div class="card"><h2>Videos that work</h2>
@@ -84,6 +95,17 @@ async function boot(){
  document.getElementById('videos').innerHTML=(L.content||[]).map(v=>'<tr><td>'+(v.title||'')+'</td><td><span class="pill">'+(v.kind||'')+'</span></td><td>'+fmtK(v.views)+'</td></tr>').join('')||'<tr><td colspan=3>—</td></tr>';
  document.getElementById('video-src').textContent=L.content_source||'';
  document.getElementById('rows').innerHTML=(rows||[]).slice().sort((a,b)=>String(b.day).localeCompare(String(a.day))).map(r=>{const kk=r.kpis||r;return '<tr><td>'+r.day+'</td><td>'+fmt(kk.subs)+'</td><td>'+fmt(kk.earn)+'</td><td>'+fmt(kk.an7)+'</td></tr>';}).join('');
+ const T=await fetch('data/tracking.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null);
+ if(T){const $=i=>document.getElementById(i),esc=t=>String(t??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const dur=x=>x?Math.floor(x/3600)+'h '+String(Math.round(x%3600/60)).padStart(2,'0')+'m':'—';
+  const yt=v=>'<a style="color:inherit" href="https://www.youtube.com/watch?v='+v.id+'">'+esc(v.title)+'</a>';
+  $('tr-subs').textContent=fmt(T.subs_public)+' / 1,000 ('+(T.subs_public/10).toFixed(1)+'%)';$('tr-subs-bar').style.width=Math.min(100,T.subs_public/10)+'%';
+  $('tr-hours').textContent=fmt(T.earn)+' / 4,000 ('+(T.earn/40).toFixed(1)+'%)';$('tr-hours-bar').style.width=Math.min(100,T.earn/40)+'%';
+  $('tr-src').textContent='Fetched '+T.fetched+' · subs: '+T.sources.youtube+' · hours: '+T.earn_source;
+  $('tr-up').innerHTML=T.uploads.map(v=>'<tr><td>'+yt(v)+'</td><td>'+dur(v.duration)+'</td><td>'+fmt(v.views)+'</td></tr>').join('');
+  $('tr-live').innerHTML=T.streams.map(v=>'<tr><td>'+yt(v)+(/radio/i.test(v.title)?' <span class="pill">Focus Radio</span>':'')+'</td><td><span class="pill">'+(v.live==='is_live'?'live now':'ended')+'</span></td><td>'+fmt(v.views)+'</td></tr>').join('');
+  $('tr-rel').innerHTML=T.releases.map(r=>'<tr><td>'+esc(r.title)+'</td><td>'+r.date+'</td><td><span class="pill">'+r.status+'</span></td><td>'+(Object.entries(r.stores).map(([n,u])=>'<a style="color:var(--gold)" href="'+esc(u)+'">'+esc(n)+'</a>').join(' · ')||'—')+'</td></tr>').join('');
+  $('tr-rel-src').textContent='Source: '+T.sources.releases+'. Spotify links marked UNVERIFIED in the registry are not shown.';}
 }
 boot();
 </script></body></html>
