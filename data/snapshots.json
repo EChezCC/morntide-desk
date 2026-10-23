@@ -1,5 +1,25 @@
 [
  {
+  "day": "2026-10-23",
+  "subs": 501,
+  "subs_api_rounded": 501,
+  "earn": 946,
+  "an7": 52.9,
+  "an28": 184.4,
+  "views7": 3046,
+  "views28": 10350,
+  "channel_views": 17873,
+  "video_count": 57,
+  "channel": "@morntidemusic",
+  "channel_id": "UCjIlIYsKiIyUOVsHpItKOWA",
+  "source": "Data API / vidIQ CURRENT 2026-10-23 ~09:19 ET (subs 501 / 57 videos / 17,873 views) + Studio LAST-KNOWN from 2026-10-22 eyes-on OK",
+  "notes": "Subs 501 CURRENT Data API. Earn 946 LAST-KNOWN (Studio 2026-10-22, as of Oct 17). shorts90 592 LAST-KNOWN. 7d 52.9h/3046 and 28d 184.4h/10350 LAST-KNOWN (Studio 2026-10-22). CTR 1.2% on 54.1K LAST-KNOWN. Content views updated from Data API. No new Studio eyes-on confirmed today.",
+  "shorts90": 592,
+  "ctr28": "1.2%",
+  "impr28": "54.1K",
+  "note": "Data API CURRENT 2026-10-23; Studio figures LAST-KNOWN from 2026-10-22 eyes-on OK; Earn 946 as of Oct 17"
+ },
+ {
   "day": "2026-10-22",
   "subs": 501,
   "subs_api_rounded": 501,
